@@ -1,0 +1,291 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for March 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 709
+Number of records retrieved in searches: 2775
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 8
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Denmark ; Times: 646
+	Country: United States ; Times: 41
+	Country: China ; Times: 4
+	Country: United Kingdom ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-06 ; Times: 8
+	Date: 2018-03-07 ; Times: 649
+	Date: 2018-03-16 ; Times: 3
+	Date: 2018-03-15 ; Times: 3
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-11 ; Times: 1
+	Date: 2018-03-27 ; Times: 2
+	Date: 2018-03-30 ; Times: 1
+	Date: 2018-03-19 ; Times: 2
+	Date: 2018-03-18 ; Times: 1
+	Date: 2018-03-01 ; Times: 6
+	Date: 2018-03-02 ; Times: 2
+	Date: 2018-03-03 ; Times: 2
+	Date: 2018-03-05 ; Times: 6
+	Date: 2018-03-28 ; Times: 4
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 7
+	Date: 2018-03-09 ; Times: 2
+	Date: 2018-03-25 ; Times: 2
+	Date: 2018-03-22 ; Times: 1
+	Date: 2018-03-23 ; Times: 1
+	Date: 2018-03-20 ; Times: 3
+	Date: 2018-03-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "iptrecordid:&#34;218e142b-5805-8054-c0b1-fa1f24902de0&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;0440d62c-14b4-4b44-d2bd-f9940fedfbc3&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e6cbf74f-2114-1144-62bb-900eb6486795&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;bc294c87-7a15-a154-ffb5-d38ff726ff34&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ff302a41-7866-8664-c99a-d2fb763e80a8&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;6b3a3891-a398-3984-75ac-3aa90c754a60&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;7bb4f58e-6dd3-dd34-41b3-9cbe14a588ea&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;cb33eced-ec80-c804-57a5-f1ac94ad3164&#34;" ; Times: 4
+	Query: "Felis silvestris mappable:1" ; Times: 3
+	Query: "catalognumber:42382" ; Times: 2
+	Query: "iptrecordid:&#34;7d8d0662-d3e0-3e04-e68f-d0c678443116&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ba8753a1-2acd-acd4-57b5-321b3f29bf0a&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;d7d2da04-6d12-d124-2c90-9a841b76f6a5&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;140322ec-e907-9074-8a86-92e3ca1cc396&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f713544e-5779-7794-0895-e1f15f295eaf&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;3043efed-1543-5434-2d80-158961e25f82&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f91dbc21-135e-35e4-67b4-2ac15f49b26c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;78412f09-b292-2924-578a-27d69ba1908f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;db93deaf-7f3a-f3a4-87b2-feda0270bdfc&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b6d9a72b-3210-2104-6a93-e6215a88001e&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;c02cbd45-5fc2-fc24-8491-227d8d94aef1&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;04e76d4c-4cbe-cbe4-7ca8-b15d95d4c61f&#34;" ; Times: 4
+	Query: "catalognumber:7360" ; Times: 1
+	Query: "iptrecordid:&#34;298321da-9528-5284-6cb0-70f2afbe88a3&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;9212be7c-455e-55e4-5b9a-b7d272c06890&#34;" ; Times: 4
+	Query: "Ovibos moschatus moschatus" ; Times: 5
+	Query: "iptrecordid:&#34;d528e57f-c200-2004-77ae-629c178be843&#34;" ; Times: 4
+	Query: "52261" ; Times: 1
+	Query: "iptrecordid:&#34;9574cd77-3623-6234-4383-ea875f3bd939&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ab0b4e5d-e54a-54a4-fcaa-6dbaaa68859a&#34;" ; Times: 4
+	Query: "15119" ; Times: 1
+	Query: "iptrecordid:&#34;5e7e6fe7-0b3e-b3e4-8cad-b10e0621b24f&#34;" ; Times: 4
+	Query: "16577" ; Times: 1
+	Query: "iptrecordid:&#34;58923d62-2486-4864-4684-02588a6f0803&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;29309860-2431-4314-be8e-af4709d165fe&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;6bfca93b-53b5-3b54-0db0-e0673e2d8606&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;44b8ed6c-0091-0914-119a-a2036b9cd53f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;6419e944-c0b7-0b74-909a-687b17e87489&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;c059bbfc-b420-4204-979d-eeb0c93c77e3&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;504063ce-d887-8874-0da1-f7edd1712a96&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;308f81dc-e50e-50e4-0ebc-33910844345a&#34;" ; Times: 4
+	Query: "catalognumber:5477" ; Times: 1
+	Query: "iptrecordid:&#34;2a14b51f-cea6-ea64-548c-e85c7193f849&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;63f75a98-0ef5-ef54-edb8-de803358e335&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;db88eb40-03c2-3c24-5ab8-f04a40f27efc&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;01972f0f-bbdb-bdb4-5da4-cb53726e4c23&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;3d03e880-ed14-d144-e7b2-6c49b40368f4&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;729d6347-b78f-78f4-33bf-bdf3aed60348&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;adcffac1-8b8f-b8f4-949f-c0f4cfc249f6&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;96ef77e4-9429-4294-a584-629328d55816&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;8fab09fd-93d3-3d34-7089-261e657952a3&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;d174b51e-b7df-7df4-899d-24bb73a53f15&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b231419d-a7ca-7ca4-929a-00658eadacbe&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;59dc7cd7-0b3f-b3f4-23b5-dffbb861e14f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;a5f2c7d6-3871-8714-0ea5-365f0a416aa6&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;537ee286-cc31-c314-4f81-f3c5e9e27441&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;39e0943e-07a5-7a54-e692-e6a7e3f7e41c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;13c8bd24-7a9b-a9b4-c381-88d3041d8a18&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;cf357009-a901-9014-6487-f6df2113e20c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;daf9c774-b4b6-4b64-3d8b-ddec3d489b6b&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;3284991a-f3e9-3e94-c4bf-ff0e139fedd0&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;8ec5d542-14e7-4e74-8182-23af3e072db5&#34;" ; Times: 4
+	Query: "Mustela nigripes" ; Times: 7
+	Query: "iptrecordid:&#34;7d192519-254f-54f4-119b-fa750d06f48f&#34;" ; Times: 4
+	Query: "mummy" ; Times: 5
+	Query: "35919" ; Times: 1
+	Query: "iptrecordid:&#34;cac4fa34-8356-3564-bd8a-22320067ebc8&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f63cfb0b-4d62-d624-2da1-2d6beae4fef3&#34;" ; Times: 4
+	Query: "33640" ; Times: 1
+	Query: "16171" ; Times: 3
+	Query: "iptrecordid:&#34;4c8ed1e6-ea61-a614-919d-7059391c02bb&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;db59c2ea-b5aa-5aa4-009b-b18f9a7fa526&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;a12fe17b-9613-6134-82b4-9deccb826aca&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;7adfdae7-c2eb-2eb4-4597-e569d07eed56&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ccd3786f-429d-29d4-3cb9-0b0f46400350&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;0ee6aed6-8240-2404-a78b-91b62a1bdac8&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;d23f817f-b962-9624-bda4-7fd9306f3314&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;5f9c0307-b020-0204-a3b3-cf4680a7206c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f89d0b57-865a-65a4-039f-f86ada20364f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;d639e1df-fd95-d954-d081-f32f6cbc07f6&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f035c5e5-005a-05a4-5ba0-30c06fa0e6dc&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e050bc26-47a6-7a64-c3b6-9e881e1525aa&#34;" ; Times: 4
+	Query: "53539" ; Times: 1
+	Query: "iptrecordid:&#34;c9bb61d3-e607-6074-a48b-19a16abbbfd9&#34;" ; Times: 4
+	Query: "26996" ; Times: 1
+	Query: "iptrecordid:&#34;7e7ac748-5b16-b164-9399-441ca8ccd7d4&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;f8d191fa-69ae-9ae4-cfae-0a16541cc145&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ebab0926-96d9-6d94-8cba-fb059ed6ce8d&#34;" ; Times: 4
+	Query: "catalognumber:24417" ; Times: 1
+	Query: "iptrecordid:&#34;0bcb57a9-3513-5134-1c87-b0c2b1d0903e&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b8a1c0e4-a2be-2be4-c0a2-8edaa8b02ecb&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b372b1ee-e876-8764-3fbf-83a4b4c901ba&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;7abf3b29-9823-8234-54ac-8547f20360fe&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;234c3d4d-5098-0984-88b4-4c1f0aff7730&#34;" ; Times: 4
+	Query: "34047" ; Times: 1
+	Query: "iptrecordid:&#34;9f5c2c71-ae9e-e9e4-239a-8b6b8772b1fd&#34;" ; Times: 4
+	Query: "felis catus" ; Times: 1
+	Query: "iptrecordid:&#34;aefd75ed-bc6a-c6a4-6fa1-3cf2ec6567b4&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;930d9167-ba9b-a9b4-cfaa-c0f696668504&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;08eee46a-568b-68b4-6891-c32adc973912&#34;" ; Times: 4
+	Query: "26861" ; Times: 1
+	Query: "iptrecordid:&#34;b0e21339-9a92-a924-5d8c-78b964ea5a02&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;da332590-362d-62d4-5e86-94beee130368&#34;" ; Times: 4
+	Query: "50204" ; Times: 1
+	Query: "iptrecordid:&#34;1be2d8fe-6bb0-bb04-a5b6-2851441622ac&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1343ee14-7b2f-b2f4-66a6-eb0481dbe531&#34;" ; Times: 4
+	Query: "Ovibos moschatus" ; Times: 5
+	Query: "collectioncode:CMNMA institutioncode:CMN" ; Times: 2
+	Query: "iptrecordid:&#34;d3df049c-5733-7334-9986-d35aa1af1f29&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;cfa94acf-1754-7544-73bf-1ae60e0b2c99&#34;" ; Times: 4
+	Query: "Antilope cervicapra" ; Times: 1
+	Query: "iptrecordid:&#34;b2d938c4-fbf8-bf84-88ad-e7eddb359535&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ed91034f-70a4-0a44-f2b3-0f7ea7b3739f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;057d7b0c-fb78-b784-e7a6-aee718211bdd&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;a9a647b4-833b-33b4-0bb6-04d5b2055be8&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;2ae8c56b-8c62-c624-a5a7-b90b8e906962&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;5c1b7a31-59e2-9e24-caa6-d03e55e59c39&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1a5ad533-0c60-c604-d883-5d9d8229fc7c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;c8de9385-cb3d-b3d4-88bf-d5c5749291f0&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;91b3ecab-a756-7564-5aa8-c31a6dc382e9&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ba340c9e-00db-0db4-2da6-5ab60c47be2a&#34;" ; Times: 4
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "iptrecordid:&#34;218308f4-b36d-36d4-f5be-b6f30d00a6e5&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1d48c73f-0917-9174-74aa-fce35704ebbc&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;62ca6c5c-737b-37b4-5fb3-aa8303a87d46&#34;" ; Times: 4
+	Query: "south 57046" ; Times: 2
+	Query: "iptrecordid:&#34;ff62646e-ca9a-a9a4-f1bf-6d68dd8cfa92&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;6dfa0d30-3aa2-aa24-949c-2493200ac856&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;48febedb-4c87-c874-de9d-60ef5c78f596&#34;" ; Times: 4
+	Query: "catalognumber:13515" ; Times: 1
+	Query: "iptrecordid:&#34;698a1e19-e62c-62c4-76a4-db8f22f68d1a&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;839a08b5-9a29-a294-d9b2-028989250ab1&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;d795ffc9-db25-b254-98bc-ff05a97c426f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e05afb63-ae41-e414-de87-603ae6881d2c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;4826d951-9e0a-e0a4-26ab-38bd9f7c1e43&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;9cef7f3a-b2fb-2fb4-37b2-9c7cd9f5821d&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;5af7e00c-19a6-9a64-ab82-37a457952572&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;19fdd0c8-f097-0974-d4ba-01626dbf873e&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;303fbfe9-5acd-acd4-408c-043ed88e3ecc&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;30035079-0784-7844-f586-74a55fc70190&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;68498800-c982-9824-819a-e1e0fece1b29&#34;" ; Times: 4
+	Query: "catalognumber:13515 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;ae11f496-50b2-0b24-d6b3-73395725281f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;6ef66e23-734b-34b4-6183-30a2c7393feb&#34;" ; Times: 4
+	Query: "catalognumber:27577" ; Times: 1
+	Query: "iptrecordid:&#34;12666c5e-510d-10d4-5c8d-b3c85deb7423&#34;" ; Times: 4
+	Query: "catalognumber:20841" ; Times: 1
+	Query: "iptrecordid:&#34;1a769c31-845c-45c4-3593-f10f1b47d78f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;7025cebd-e80b-80b4-34ba-6a435513095f&#34;" ; Times: 4
+	Query: "15144" ; Times: 1
+	Query: "iptrecordid:&#34;d267e788-14e3-4e34-ef9e-9327f26035f2&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;0940ff8f-d65e-65e4-b589-4e0b55587568&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;be14cc94-64ba-4ba4-2290-d971cd1f11db&#34;" ; Times: 4
+	Query: "catalognumber:26157" ; Times: 1
+	Query: "iptrecordid:&#34;aef0855f-1375-3754-1cbc-c995cc16e38a&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;add84018-6c10-c104-feb4-4bf33922866c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;298080a5-5cf2-cf24-f0b9-ece390dba301&#34;" ; Times: 4
+	Query: "26356" ; Times: 1
+	Query: "iptrecordid:&#34;9d636657-4cc1-cc14-029a-4b8e480fa46c&#34;" ; Times: 4
+	Query: "recordedby:Tait" ; Times: 1
+	Query: "iptrecordid:&#34;61b9f3ae-0e24-e244-b7ba-3a840cf75cc4&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;016ecd1d-f5a0-5a04-9b94-60d29717fdd1&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1181cc76-b62c-62c4-2588-19b3cb35d4f2&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;cd8c6844-12aa-2aa4-07b8-ea01e6da9f70&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e862cc2f-f497-4974-31bb-87aab5b33e4c&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e253b78a-f17f-17f4-559d-fab4ea4e16d3&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;cae363c8-623d-23d4-55b2-c55aea829f39&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1bbd9e5a-96f0-6f04-67aa-295820b3d501&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;40560e19-af4c-f4c4-98a7-0ce48559e840&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;7518dc3d-30fe-0fe4-28af-4f23d570742f&#34;" ; Times: 4
+	Query: "Panthera tigris " ; Times: 1
+	Query: "iptrecordid:&#34;3788295b-b166-1664-9fbb-236641bb449d&#34;" ; Times: 4
+	Query: "scientificname:mustela nigripes" ; Times: 2
+	Query: "iptrecordid:&#34;a459c8eb-b63d-63d4-e68e-ba57a7dc13e8&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;e96beeb5-d674-6744-6889-a283d4d437aa&#34;" ; Times: 4
+	Query: "47432`" ; Times: 1
+	Query: "iptrecordid:&#34;c7136de2-0923-9234-06ad-3fc3ed166206&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;c5e5f163-a905-9054-0ca8-390f06d8d499&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;73abf232-0483-4834-2ca4-abbe91e34db2&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;90fd5087-f0ee-0ee4-3ca3-796c3e97cae4&#34;" ; Times: 4
+	Query: "Chaetophractus vellerosus" ; Times: 1
+	Query: "iptrecordid:&#34;c1c85ef3-4711-7114-f9a9-a5fcdebb0bdd&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b8d60751-6224-2244-6ca0-771b4a9d9c9b&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;55fc8c8f-cda2-da24-f396-d31d5e7bdfd9&#34;" ; Times: 4
+	Query: "catalognumber:43401" ; Times: 1
+	Query: "44414" ; Times: 1
+	Query: "iptrecordid:&#34;8f25d996-2d25-d254-2e86-fd4a9b52c7d6&#34;" ; Times: 4
+	Query: "21570" ; Times: 1
+	Query: "iptrecordid:&#34;209facba-9983-9834-2280-44c20830ed48&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;37ec7e34-7c29-c294-ab8b-ee04189a654f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;47831646-dabe-abe4-65a8-b9e30a329166&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ab7ef3cc-bc20-c204-61ad-554505995e2f&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;4f6aeb3e-4784-7844-beb9-00cc708d9a51&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;b11323bc-ca41-a414-c5ae-f4283ba87b6f&#34;" ; Times: 4
+	Query: "lagenorhynchus obliquidens" ; Times: 1
+	Query: "iptrecordid:&#34;68ca1c36-1761-7614-9cbc-2e8c05c9b3b0&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;fa72aa90-4098-0984-0188-020ff3015b99&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;ea9d87e3-13a5-3a54-1087-0b5e89ca705b&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;1e1d73da-cacf-acf4-2a95-47a9225a676e&#34;" ; Times: 4
+	Query: "Lasiurus blossevillii" ; Times: 3
+	Query: "iptrecordid:&#34;06426926-0136-1364-2691-16e7c33e450c&#34;" ; Times: 4
+	Query: "gbifdatasetid:f86a681d-7db8-483b-819a-248def18b70a" ; Times: 2
+	Query: "16003" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1284 download events in this period)
+Total number of records downloaded: 306
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 8
+	Country: France ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-03-10 ; Times: 3
+	Date: 2018-03-02 ; Times: 1
+	Date: 2018-03-14 ; Times: 1
+	Date: 2018-03-04 ; Times: 1
+	Date: 2018-03-05 ; Times: 1
+	Date: 2018-03-06 ; Times: 1
+	Date: 2018-03-29 ; Times: 1
+	Date: 2018-03-26 ; Times: 4
+	Date: 2018-03-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 3
+	Query: "Talpa" ; Times: 1
+	Query: "vntype:specimen (pan troglodytes)" ; Times: 1
+	Query: "lagenorhynchus obliquidens" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Neotoma micropus" ; Times: 2
+	Query: "Saltator" ; Times: 1
+	Query: "Hippopotamus amphibius" ; Times: 1
+	Query: "neotoma leucodon" ; Times: 1
+
+
+End of report.
