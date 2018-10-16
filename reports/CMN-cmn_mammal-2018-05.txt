@@ -1,0 +1,116 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for May 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 46
+Number of records retrieved in searches: 175
+Number of different countries where searches have been originated: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Pakistan ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Colombia ; Times: 4
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United States ; Times: 18
+	Country: Guatemala ; Times: 1
+	Country: China ; Times: 4
+	Country: Peru ; Times: 2
+	Country: Norway ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 1
+	Date: 2018-05-04 ; Times: 1
+	Date: 2018-05-03 ; Times: 1
+	Date: 2018-05-01 ; Times: 2
+	Date: 2018-05-14 ; Times: 1
+	Date: 2018-05-17 ; Times: 3
+	Date: 2018-05-08 ; Times: 6
+	Date: 2018-05-18 ; Times: 6
+	Date: 2018-05-29 ; Times: 5
+	Date: 2018-05-15 ; Times: 1
+	Date: 2018-05-26 ; Times: 2
+	Date: 2018-05-23 ; Times: 7
+	Date: 2018-05-24 ; Times: 2
+	Date: 2018-05-25 ; Times: 5
+	Date: 2018-05-31 ; Times: 1
+	Date: 2018-05-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Cabassous" ; Times: 2
+	Query: "mustela nivalis" ; Times: 1
+	Query: "(camelus bactrianus)" ; Times: 1
+	Query: "catalognumber:9336" ; Times: 1
+	Query: "Tamias minimus caniceps" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "catalognumber:6490 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:47562" ; Times: 1
+	Query: "vampyrum" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "36458" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "35076" ; Times: 1
+	Query: "31227" ; Times: 2
+	Query: "24432" ; Times: 1
+	Query: "bos gaurus" ; Times: 1
+	Query: "10048 Myotis" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 2
+	Query: "27634" ; Times: 1
+	Query: "56785" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "40447" ; Times: 2
+	Query: "37232" ; Times: 1
+	Query: "44963" ; Times: 1
+	Query: "39454" ; Times: 1
+	Query: "50785" ; Times: 2
+	Query: "catalognumber:9932" ; Times: 1
+	Query: "kund" ; Times: 1
+	Query: "vntype:specimen (saiga tatarica skeleton skull)" ; Times: 1
+	Query: "P45" ; Times: 1
+	Query: "Lutra lutra" ; Times: 2
+	Query: "37184" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 1178 download events in this period)
+Total number of records downloaded: 5096
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Canada ; Times: 1
+	Country: South Africa ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-05-06 ; Times: 1
+	Date: 2018-05-07 ; Times: 4
+	Date: 2018-05-17 ; Times: 1
+	Date: 2018-05-16 ; Times: 1
+	Date: 2018-05-11 ; Times: 1
+	Date: 2018-05-18 ; Times: 1
+	Date: 2018-05-08 ; Times: 1
+	Date: 2018-05-09 ; Times: 1
+	Date: 2018-05-31 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Macropus robustus" ; Times: 1
+	Query: "Trichosurus vulpecula" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "chiroptera mexico" ; Times: 1
+	Query: "Pazos" ; Times: 1
+	Query: "Procyon lotor" ; Times: 1
+	Query: "macropus rufus" ; Times: 1
+	Query: "neotoma macrotis" ; Times: 1
+	Query: "Jaculus jaculus" ; Times: 1
+	Query: "Macropus rufogriseus" ; Times: 1
+	Query: "peromyscus maniculatus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+
+
+End of report.
