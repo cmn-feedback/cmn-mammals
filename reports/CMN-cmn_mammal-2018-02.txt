@@ -1,0 +1,224 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for February 2018, generated on 2018/10/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 219
+Number of records retrieved in searches: 746
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 20
+	Country: Brazil ; Times: 1
+	Country: Israel ; Times: 3
+	Country: Portugal ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Denmark ; Times: 166
+	Country: United States ; Times: 23
+	Country: Dominican Republic ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 8
+	Date: 2018-02-15 ; Times: 3
+	Date: 2018-02-16 ; Times: 2
+	Date: 2018-02-17 ; Times: 2
+	Date: 2018-02-10 ; Times: 1
+	Date: 2018-02-12 ; Times: 6
+	Date: 2018-02-27 ; Times: 6
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-28 ; Times: 3
+	Date: 2018-02-19 ; Times: 2
+	Date: 2018-02-06 ; Times: 3
+	Date: 2018-02-04 ; Times: 160
+	Date: 2018-02-09 ; Times: 2
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-03 ; Times: 2
+	Date: 2018-02-23 ; Times: 4
+	Date: 2018-02-20 ; Times: 3
+	Date: 2018-02-05 ; Times: 5
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:5917" ; Times: 1
+	Query: "Connochaetes" ; Times: 1
+	Query: "Camelus dromedarius dromedarius" ; Times: 1
+	Query: "iptrecordid:&#34;37feb01a-1f62-f624-5fb2-95247e4394cc&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;b6891f03-6afb-afb4-22bf-2036e48bfd78&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;c4fc0030-ad82-d824-adba-fe99a6ce6d26&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;38885970-b78c-78c4-8fa2-ecfd19aca31c&#34;" ; Times: 2
+	Query: "catalognumber:2315 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;a329003f-584f-84f4-17b7-295bdd0bff17&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;63675cef-f657-6574-62a3-37a9677977b7&#34;" ; Times: 2
+	Query: "Elephas maximus maximus" ; Times: 2
+	Query: "catalognumber:10231 &#34;blarina brevicauda&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;ec4bb1c9-7408-4084-e7a4-4105af66eb01&#34;" ; Times: 2
+	Query: "catalognumber:23926 &#34;peromyscus&#34;" ; Times: 2
+	Query: "Elephas maximus" ; Times: 2
+	Query: "iptrecordid:&#34;e9107ded-83a9-3a94-ee87-b514b5e9a0bf&#34;" ; Times: 2
+	Query: "35931" ; Times: 1
+	Query: "iptrecordid:&#34;17191d95-87eb-7eb4-dfa7-3977a7185358&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;137fd273-c8e8-8e84-82af-055153099f4a&#34;" ; Times: 2
+	Query: "Loxodonta africana" ; Times: 1
+	Query: "Perissodactyla country:&#34;Canada&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;20a4f524-77c9-7c94-a38b-0aeb99553562&#34;" ; Times: 2
+	Query: "catalognumber:29771" ; Times: 1
+	Query: "Camelus dromedarius" ; Times: 1
+	Query: "iptrecordid:&#34;83313bbb-adab-dab4-49ad-7e23330a8e3c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;99da6a80-b157-1574-649d-3adc3da69e89&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;358093b9-df7f-f7f4-12a0-388d676856fa&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;d6608fbe-402d-02d4-8fb0-cc494b034dc1&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;6db9b4bb-0198-1984-74a5-a7090f24f37a&#34;" ; Times: 2
+	Query: "cephalophus weynsi" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "catalognumber:2314 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;689ea4b1-f107-1074-eab0-f035a60852e8&#34;" ; Times: 2
+	Query: "Dama dama institutioncode:CMN" ; Times: 1
+	Query: "15928" ; Times: 1
+	Query: "iptrecordid:&#34;fdd94272-8290-2904-cba0-7c4782352ac8&#34;" ; Times: 2
+	Query: "Loxodonta africana africana" ; Times: 1
+	Query: "iptrecordid:&#34;6180cb17-57e8-7e84-8787-3ee6edb558eb&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;41db5c46-509d-09d4-589d-4528cd0a5259&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;75bf9ecc-1e0b-e0b4-5fa6-cdba7a33f7b1&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;56f7a6b7-ab73-b734-aeb8-26853e49a08c&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e8a1ddfe-dc20-c204-cbb1-2518ca8c9140&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;375b1b2a-cb3c-b3c4-64b6-9ecc7289b2e3&#34;" ; Times: 2
+	Query: "Alces alces gigas" ; Times: 3
+	Query: "mummy" ; Times: 1
+	Query: "catalognumber:23926" ; Times: 1
+	Query: "iptrecordid:&#34;3f306e95-39ec-9ec4-ff82-3e0ee834ef84&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;81c48a14-95ad-5ad4-839b-fdc81582339a&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e14e581d-be69-e694-df94-3ace3ac87d8e&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;eb44e31c-b638-6384-2ba9-404e4487347f&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;c111b9f2-95d2-5d24-9caf-73ee71a57bb0&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;a3248414-b7fc-7fc4-589c-3b24f62a856e&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e4c10ec0-a487-4874-cd8e-4ab62a8ad893&#34;" ; Times: 2
+	Query: "19848" ; Times: 1
+	Query: "iptrecordid:&#34;c944e067-dab1-ab14-e0b5-cec4d5c0a2be&#34;" ; Times: 2
+	Query: "catalognumber:14911" ; Times: 1
+	Query: "iptrecordid:&#34;2f966779-f90d-90d4-b5bc-becce92a6439&#34;" ; Times: 2
+	Query: "Dama dama mappable:1" ; Times: 3
+	Query: "catalognumber:6604" ; Times: 2
+	Query: "iptrecordid:&#34;99f97d8e-4ebc-ebc4-778f-0ebf2ee73795&#34;" ; Times: 2
+	Query: "catalognumber:7902" ; Times: 1
+	Query: "iptrecordid:&#34;da293e2f-778a-78a4-3091-fb239c9f7d2a&#34;" ; Times: 2
+	Query: "catalognumber:4152" ; Times: 1
+	Query: "iptrecordid:&#34;ab95e680-e0a2-0a24-eda7-19f50a5ea712&#34;" ; Times: 2
+	Query: "catalognumber:2313 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;482af71b-c1cd-1cd4-2cb8-8b983aeca323&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;bd7f6a6e-b453-4534-d9a0-4053b0627358&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;da4ba2e8-cf98-f984-c583-368f0e9c2c98&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;7a1ee536-9773-7734-85b0-96205fc3c914&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;3d9f2e4d-8a90-a904-cbab-a207b3622fcf&#34;" ; Times: 2
+	Query: "54553" ; Times: 1
+	Query: "iptrecordid:&#34;de3bc881-5fe6-fe64-6ab8-7509a45697c5&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;5658861b-8924-9244-cbac-98549348cfbd&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e14ea47f-5a0e-a0e4-d398-1bd4bba14cec&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;8c50b185-330b-30b4-95b8-0009ccae5410&#34;" ; Times: 2
+	Query: "13773" ; Times: 1
+	Query: "Alces alces americana" ; Times: 3
+	Query: "iptrecordid:&#34;120013ac-9c39-c394-ed91-06a1185779bb&#34;" ; Times: 2
+	Query: "50129" ; Times: 1
+	Query: "iptrecordid:&#34;b16edc5f-8c5a-c5a4-a196-d04a80dedc1b&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;297723a8-be88-e884-2ca9-a02b239bb4e5&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;5b0a788a-7636-6364-9cbf-dadbf7153532&#34;" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "catalognumber:15136" ; Times: 1
+	Query: "Dicrostonyx nunatakensis " ; Times: 1
+	Query: "iptrecordid:&#34;a338f44e-ad6b-d6b4-278f-6e870bb6d5ec&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;46f66765-b27e-27e4-8ebc-45a751914610&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;a488bc1c-8aef-aef4-79bd-193199f8573d&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;96038adf-9fab-fab4-54b3-ef9b39d1805d&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;bd10949a-a675-6754-0484-232fd07a6414&#34;" ; Times: 2
+	Query: "Panthera leo mappable:1" ; Times: 1
+	Query: "iptrecordid:&#34;ae689f4b-823e-23e4-e880-dad27a23a1ca&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;9781b33a-6163-1634-abb7-7c246fc66cfb&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;52464df1-8af5-af54-6cb7-4de2211e421d&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;de69fbc4-41f1-1f14-82a8-6a5a1a819f53&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;bd2efd9d-91fc-1fc4-5e82-f467c47c38e9&#34;" ; Times: 2
+	Query: "Guiguet" ; Times: 1
+	Query: "iptrecordid:&#34;8cd24666-201f-01f4-dc96-038b849092dc&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;2e23bc90-764b-64b4-3b89-33fddf393d56&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;73c40a0a-4a20-a204-40b1-8621ba3f53ee&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e97976ba-2858-8584-deb1-e5d598ade268&#34;" ; Times: 2
+	Query: "neofelis" ; Times: 2
+	Query: "guiguet" ; Times: 1
+	Query: "iptrecordid:&#34;50805215-0755-7554-f887-e962b62bc236&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e9f8c3be-cada-ada4-0094-3da9919042c4&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;7928af5a-9858-8584-1c95-42e02b3d0bb9&#34;" ; Times: 2
+	Query: "catalognumber:2201" ; Times: 1
+	Query: "catalognumber:13829" ; Times: 1
+	Query: "catalognumber:1160 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "iptrecordid:&#34;4ac1258c-76b7-6b74-f2b0-1bafdce8aff2&#34;" ; Times: 2
+	Query: "Bassariscus astutus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "catalognumber:15484" ; Times: 1
+	Query: "iptrecordid:&#34;9883e8da-cc39-c394-09a5-da137d31f363&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;9ef2d848-bf3f-f3f4-b29c-ae9518f2742e&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;f9f49ff5-f64c-64c4-d79d-6af3e97fa463&#34;" ; Times: 2
+	Query: "catalognumber:35240" ; Times: 1
+	Query: "catalognumber:31071" ; Times: 1
+	Query: "iptrecordid:&#34;4f4ba041-09c1-9c14-fc81-1ce794d99763&#34;" ; Times: 2
+	Query: "halichoerus grypus" ; Times: 5
+	Query: "iptrecordid:&#34;556040b7-efab-fab4-22ae-d3a23e2e9e21&#34;" ; Times: 2
+	Query: "catalognumber:7780" ; Times: 1
+	Query: "catalognumber:16045" ; Times: 1
+	Query: "catalognumber:10378" ; Times: 1
+	Query: "iptrecordid:&#34;83308a6a-3b9b-b9b4-aaa3-4cf46b705c7b&#34;" ; Times: 4
+	Query: "iptrecordid:&#34;5fe4a723-d772-7724-a8a5-4ff2e3e783cd&#34;" ; Times: 2
+	Query: "iptrecordid:&#34;e45a5f79-ee4a-e4a4-d7be-4c9398f5a3f9&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1892 download events in this period)
+Total number of records downloaded: 61525
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 13
+	Country: Australia ; Times: 2
+	Country: Mexico ; Times: 7
+	Country: United Kingdom ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-02-14 ; Times: 1
+	Date: 2018-02-15 ; Times: 2
+	Date: 2018-02-16 ; Times: 5
+	Date: 2018-02-27 ; Times: 1
+	Date: 2018-02-12 ; Times: 4
+	Date: 2018-02-13 ; Times: 3
+	Date: 2018-02-23 ; Times: 2
+	Date: 2018-02-08 ; Times: 2
+	Date: 2018-02-20 ; Times: 4
+	Date: 2018-02-21 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "institutioncode:cmn" ; Times: 1
+	Query: "melursus" ; Times: 1
+	Query: "neofelis" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "vntype:specimen (macaca mulatta)" ; Times: 1
+	Query: "Meriones" ; Times: 1
+	Query: "Mammal country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Peromyscus pectoralis" ; Times: 1
+	Query: "Bassariscus" ; Times: 2
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Psammomys obesus" ; Times: 1
+	Query: "myrmecophaga" ; Times: 1
+	Query: "puma" ; Times: 2
+	Query: "mammal minnesota" ; Times: 1
+	Query: "Geomys pinetis" ; Times: 1
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "macaca mulatta" ; Times: 1
+	Query: "Tatera" ; Times: 1
+	Query: "Canis lupus" ; Times: 1
+	Query: "Psammomys" ; Times: 1
+	Query: "choloepus" ; Times: 1
+	Query: "Reithrodontomys humulis" ; Times: 1
+	Query: "Peromyscus difficilis" ; Times: 1
+
+
+End of report.
