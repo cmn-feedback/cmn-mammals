@@ -1,0 +1,129 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for June 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 52
+Number of records retrieved in searches: 426
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Unknown ; Times: 7
+	Country: France ; Times: 3
+	Country: United States ; Times: 30
+	Country: China ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-08 ; Times: 4
+	Date: 2018-06-06 ; Times: 2
+	Date: 2018-06-05 ; Times: 5
+	Date: 2018-06-11 ; Times: 3
+	Date: 2018-06-12 ; Times: 1
+	Date: 2018-06-04 ; Times: 2
+	Date: 2018-06-29 ; Times: 7
+	Date: 2018-06-28 ; Times: 6
+	Date: 2018-06-16 ; Times: 7
+	Date: 2018-06-18 ; Times: 1
+	Date: 2018-06-19 ; Times: 2
+	Date: 2018-06-27 ; Times: 2
+	Date: 2018-06-26 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-25 ; Times: 6
+	Date: 2018-06-02 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Solenodontidae" ; Times: 1
+	Query: "Dendrohyrax arboreus" ; Times: 4
+	Query: "Mysticeti" ; Times: 3
+	Query: "42139-1" ; Times: 1
+	Query: "19696" ; Times: 1
+	Query: "proteus" ; Times: 3
+	Query: "56785" ; Times: 1
+	Query: "Canis lupus occidentalis" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "catalognumber:13728" ; Times: 1
+	Query: "16088 vntype:specimen" ; Times: 1
+	Query: "11605" ; Times: 1
+	Query: "catalognumber:3014 institutioncode:CMN" ; Times: 1
+	Query: "28940" ; Times: 1
+	Query: "31224" ; Times: 1
+	Query: "39043" ; Times: 3
+	Query: "catalognumber:16943" ; Times: 1
+	Query: "50623" ; Times: 4
+	Query: "49503" ; Times: 1
+	Query: "catalognumber:29294" ; Times: 2
+	Query: "36384`1" ; Times: 1
+	Query: "scientificname:Choloepus hoffmanni " ; Times: 1
+	Query: "15540" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "catalognumber:33306" ; Times: 1
+	Query: "52549" ; Times: 1
+	Query: "catalognumber:6882" ; Times: 1
+	Query: "59215" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "catalognumber:18721" ; Times: 1
+	Query: "spermophilus mohavensis" ; Times: 1
+	Query: "locality:port simpson" ; Times: 3
+	Query: "catalognumber:50355" ; Times: 1
+	Query: "50785" ; Times: 1
+	Query: "39047" ; Times: 1
+	Query: "16262" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1169 download events in this period)
+Total number of records downloaded: 6662
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: Unknown ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 2
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-06-07 ; Times: 4
+	Date: 2018-06-10 ; Times: 1
+	Date: 2018-06-06 ; Times: 1
+	Date: 2018-06-05 ; Times: 4
+	Date: 2018-06-03 ; Times: 1
+	Date: 2018-06-09 ; Times: 2
+	Date: 2018-06-01 ; Times: 1
+	Date: 2018-06-18 ; Times: 2
+	Date: 2018-06-29 ; Times: 1
+	Date: 2018-06-20 ; Times: 1
+	Date: 2018-06-23 ; Times: 1
+	Date: 2018-06-08 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "canis lupus nubilus" ; Times: 1
+	Query: "moose" ; Times: 1
+	Query: "Mysticeti" ; Times: 1
+	Query: "Canis lupus occidentalis" ; Times: 1
+	Query: "Aplodontia rufa" ; Times: 2
+	Query: "Giraffa camelopardalis camelopardalis" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "Setonix brachyurus" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "sea otter" ; Times: 2
+	Query: "antilocapra" ; Times: 1
+	Query: "blue jay" ; Times: 2
+	Query: "eliomys quercinus" ; Times: 1
+	Query: "Cebus albifrons" ; Times: 2
+	Query: "ursus maritimus" ; Times: 1
+	Query: "alces alces" ; Times: 1
+	Query: "Pongo pygmaeus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Microtus" ; Times: 1
+	Query: "panda" ; Times: 1
+	Query: "orca" ; Times: 2
+
+
+End of report.
