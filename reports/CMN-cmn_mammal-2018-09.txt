@@ -1,0 +1,150 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 73
+Number of records retrieved in searches: 489
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Canada ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 22
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 21
+	Country: China ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Norway ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-04 ; Times: 3
+	Date: 2018-09-03 ; Times: 2
+	Date: 2018-09-30 ; Times: 3
+	Date: 2018-09-05 ; Times: 1
+	Date: 2018-09-13 ; Times: 1
+	Date: 2018-09-24 ; Times: 13
+	Date: 2018-09-25 ; Times: 4
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-12 ; Times: 4
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 5
+	Date: 2018-09-17 ; Times: 5
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 15
+	Date: 2018-09-18 ; Times: 3
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-20 ; Times: 1
+	Date: 2018-09-27 ; Times: 5
+	Date: 2018-09-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "catalognumber:53034 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "glaucomys sabrinus oregonensis" ; Times: 1
+	Query: "34893-1" ; Times: 1
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "catalognumber:11279 &#34;tamias striatus&#34;" ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "49597" ; Times: 1
+	Query: "baculum pinnipedia" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "panthera leo" ; Times: 14
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "43401" ; Times: 1
+	Query: "mustela erminea 500" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "catalognumber:24334 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "catalognumber:27998 &#34;didelphis virginiana&#34;" ; Times: 1
+	Query: "catalognumber:9343 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "orcinus orca" ; Times: 2
+	Query: "catalognumber:9341 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "gulo gulo vancouverensis" ; Times: 1
+	Query: "43935" ; Times: 1
+	Query: "catalognumber:19188 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "Glaucomys oregonensis" ; Times: 1
+	Query: "14840" ; Times: 1
+	Query: "catalognumber:24128 &#34;tamiasciurus hudsonicus&#34;" ; Times: 1
+	Query: "Panthera tigris" ; Times: 1
+	Query: "27792" ; Times: 1
+	Query: "16088" ; Times: 1
+	Query: "catalognumber:9346 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "coendou prehensilis" ; Times: 1
+	Query: "R 15654" ; Times: 1
+	Query: "49597 mammalia" ; Times: 2
+	Query: "Old woman creek" ; Times: 1
+	Query: "33106" ; Times: 1
+	Query: "Marmosa canescens" ; Times: 1
+	Query: "catalognumber:9344 &#34;microtus pennsylvanicus&#34;" ; Times: 1
+	Query: "catalognumber:33246 &#34;peromyscus maniculatus&#34;" ; Times: 1
+	Query: "catalognumber:10310 &#34;mephitis mephitis&#34;" ; Times: 1
+	Query: "canis royal ontario museum" ; Times: 1
+	Query: "catalognumber:28351 &#34;procyon lotor&#34;" ; Times: 1
+	Query: "catalognumber:41858" ; Times: 1
+	Query: "gbifdatasetid:f86a681d-7db8-483b-819a-248def18b70a" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 27 (out of 846 download events in this period)
+Total number of records downloaded: 9082
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Norway ; Times: 2
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-10 ; Times: 1
+	Date: 2018-09-13 ; Times: 5
+	Date: 2018-09-25 ; Times: 1
+	Date: 2018-09-26 ; Times: 4
+	Date: 2018-09-27 ; Times: 5
+	Date: 2018-09-20 ; Times: 2
+	Date: 2018-09-07 ; Times: 1
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-18 ; Times: 6
+	Date: 2018-09-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "locality:teller country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "canis lupus" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "locality:nome country:&#34;United states&#34; year &lt;= 1920" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "microtus" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "eschrichtius robustus" ; Times: 2
+	Query: "Didelphis californica" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "Marmosa canescens" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "neotoma leucodon" ; Times: 1
+
+
+End of report.
