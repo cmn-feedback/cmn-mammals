@@ -1,0 +1,135 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 68
+Number of records retrieved in searches: 298
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 50
+	Country: Mexico ; Times: 1
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 5
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 4
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-13 ; Times: 4
+	Date: 2018-07-12 ; Times: 4
+	Date: 2018-07-11 ; Times: 6
+	Date: 2018-07-10 ; Times: 10
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-14 ; Times: 1
+	Date: 2018-07-04 ; Times: 1
+	Date: 2018-07-23 ; Times: 7
+	Date: 2018-07-06 ; Times: 5
+	Date: 2018-07-18 ; Times: 1
+	Date: 2018-07-26 ; Times: 2
+	Date: 2018-07-27 ; Times: 2
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-03 ; Times: 1
+	Date: 2018-07-21 ; Times: 3
+	Date: 2018-07-31 ; Times: 8
+	Date: 2018-07-24 ; Times: 2
+	Date: 2018-07-28 ; Times: 2
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-25 ; Times: 1
+	Date: 2018-07-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "53355" ; Times: 1
+	Query: "14651" ; Times: 1
+	Query: "29884" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "15899" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "44690" ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "34490" ; Times: 1
+	Query: "locality:*pass* country:&#34;canada&#34; year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "14616" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "37260" ; Times: 1
+	Query: "catalognumber:44449" ; Times: 1
+	Query: "Lutra canadensis" ; Times: 3
+	Query: "mummy" ; Times: 5
+	Query: "26423" ; Times: 1
+	Query: "recordedby:Nuttall" ; Times: 1
+	Query: "Mesoplodon bidens" ; Times: 3
+	Query: "42239" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "catalognumber:52844" ; Times: 1
+	Query: "18318" ; Times: 1
+	Query: "56062" ; Times: 1
+	Query: "57433" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "39043" ; Times: 1
+	Query: "americanus clarke county" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "47680" ; Times: 1
+	Query: "53348" ; Times: 1
+	Query: "20167" ; Times: 1
+	Query: "49649-1" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "gyrfalcon" ; Times: 2
+	Query: "catalognumber:44448" ; Times: 1
+	Query: "14764" ; Times: 1
+	Query: "Orcinus" ; Times: 3
+	Query: "Panthera uncia" ; Times: 4
+	Query: "29686" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "Canis latrans institutioncode:CMN" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 977 download events in this period)
+Total number of records downloaded: 570
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: United Kingdom ; Times: 2
+	Country: Colombia ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-30 ; Times: 1
+	Date: 2018-07-21 ; Times: 1
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-24 ; Times: 3
+	Date: 2018-07-02 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "Anoura" ; Times: 1
+	Query: "Canis latrans institutioncode:CMN" ; Times: 1
+	Query: "Aberdeen" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+
+
+End of report.
