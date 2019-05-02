@@ -1,0 +1,125 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 56
+Number of records retrieved in searches: 189
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Netherlands ; Times: 9
+	Country: Portugal ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 39
+	Country: Peru ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-11 ; Times: 1
+	Date: 2019-03-06 ; Times: 2
+	Date: 2019-03-18 ; Times: 1
+	Date: 2019-03-31 ; Times: 9
+	Date: 2019-03-12 ; Times: 1
+	Date: 2019-03-05 ; Times: 3
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-13 ; Times: 2
+	Date: 2019-03-30 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 2
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 7
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 5
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-08 ; Times: 10
+
+List of queries that retrieved data from the resource: 
+	Query: "pygeretmus" ; Times: 1
+	Query: "54495" ; Times: 1
+	Query: "54494" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "54471" ; Times: 1
+	Query: "catalognumber:50694" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "15285" ; Times: 1
+	Query: "county:&#34;Wilbarger&#34; stateprovince:&#34;Texas&#34; Dipodomys ordii" ; Times: 1
+	Query: "51438" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "38014" ; Times: 1
+	Query: "porcher island" ; Times: 1
+	Query: "Tenrec" ; Times: 1
+	Query: "11583" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "catalognumber:75387" ; Times: 1
+	Query: "37157" ; Times: 1
+	Query: "mammal jaw bones" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "56147" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "catalognumber:5586" ; Times: 2
+	Query: "tenrec" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "cabassous tatouay" ; Times: 2
+	Query: "23317" ; Times: 1
+	Query: "recordedby:Hoare" ; Times: 1
+	Query: "neovison vison" ; Times: 9
+	Query: "Panthera uncia" ; Times: 2
+	Query: "mountain goat" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "48319" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1281 download events in this period)
+Total number of records downloaded: 119
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: United Kingdom ; Times: 2
+	Country: Portugal ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-04 ; Times: 2
+	Date: 2019-03-14 ; Times: 2
+	Date: 2019-03-31 ; Times: 1
+	Date: 2019-03-22 ; Times: 2
+	Date: 2019-03-21 ; Times: 3
+	Date: 2019-03-19 ; Times: 1
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-07 ; Times: 2
+	Date: 2019-03-13 ; Times: 1
+	Date: 2019-03-03 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Tupaia glis" ; Times: 1
+	Query: "pygeretmus" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Panthera uncia vntype:specimen" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "jaculus" ; Times: 1
+	Query: "Saguinus fuscicollis" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "cabassous tatouay" ; Times: 1
+	Query: "panda" ; Times: 2
+
+
+End of report.
