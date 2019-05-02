@@ -1,0 +1,205 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 735
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 30
+	Country: Canada ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: Unknown ; Times: 2
+	Country: Sweden ; Times: 1
+	Country: United Kingdom ; Times: 3
+	Country: Malaysia ; Times: 1
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: United States ; Times: 50
+	Country: Russia ; Times: 1
+	Country: Switzerland ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-04 ; Times: 11
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-18 ; Times: 3
+	Date: 2019-04-23 ; Times: 6
+	Date: 2019-04-12 ; Times: 2
+	Date: 2019-04-11 ; Times: 6
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 5
+	Date: 2019-04-16 ; Times: 8
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-30 ; Times: 6
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-22 ; Times: 11
+	Date: 2019-04-05 ; Times: 4
+	Date: 2019-04-20 ; Times: 3
+	Date: 2019-04-21 ; Times: 1
+	Date: 2019-04-26 ; Times: 9
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 13
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-29 ; Times: 2
+	Date: 2019-04-08 ; Times: 1
+	Date: 2019-04-09 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "75298" ; Times: 1
+	Query: "47737" ; Times: 1
+	Query: "catalognumber:1297" ; Times: 2
+	Query: "Mysticeti" ; Times: 1
+	Query: "panthera uncia" ; Times: 2
+	Query: "catalognumber:31709" ; Times: 1
+	Query: "55269" ; Times: 3
+	Query: "55268" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "59237" ; Times: 1
+	Query: "catalognumber:33096" ; Times: 1
+	Query: "50360" ; Times: 1
+	Query: "Sciurus carolinensis country:&#34;canada&#34;" ; Times: 1
+	Query: "scientificname:Equus caballus " ; Times: 1
+	Query: "helarctos malayanus" ; Times: 1
+	Query: "lontra canadensis 2669" ; Times: 1
+	Query: "35899" ; Times: 1
+	Query: "16987" ; Times: 1
+	Query: "catalognumber:33072" ; Times: 1
+	Query: "35131" ; Times: 1
+	Query: "Macaca radiata" ; Times: 2
+	Query: "51361" ; Times: 1
+	Query: "Myotis septentrionalis year &lt;= 1970" ; Times: 6
+	Query: "58395" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "catalognumber:32293" ; Times: 1
+	Query: "49917" ; Times: 2
+	Query: "nelsonia neotomodon" ; Times: 1
+	Query: "36394" ; Times: 1
+	Query: "Sus scrofa mappable:1" ; Times: 2
+	Query: "57104" ; Times: 1
+	Query: "57105" ; Times: 1
+	Query: "35132" ; Times: 1
+	Query: "57103" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 3
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "lycaon" ; Times: 1
+	Query: "75419" ; Times: 1
+	Query: "30274 mammalia" ; Times: 1
+	Query: "mustela nigripes" ; Times: 2
+	Query: "Pickering institutioncode:CMN" ; Times: 1
+	Query: "catalognumber:33045" ; Times: 1
+	Query: "25148" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "catalognumber:43527" ; Times: 1
+	Query: "catalognumber:14663" ; Times: 1
+	Query: "catalognumber:1154 institutioncode:CMN" ; Times: 2
+	Query: "glaucomys oregonensis" ; Times: 2
+	Query: "21264" ; Times: 2
+	Query: "48825" ; Times: 1
+	Query: "52661" ; Times: 2
+	Query: "catalognumber:33041" ; Times: 1
+	Query: "11235" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 3
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "49924" ; Times: 3
+	Query: "marmota vancouverensis" ; Times: 3
+	Query: "catalognumber:20864" ; Times: 2
+	Query: "Orcinus" ; Times: 1
+	Query: "locality:brandon stateprovince:&#34;Manitoba&#34;" ; Times: 2
+	Query: "&#34;sciurus&#34; institutioncode:CMN" ; Times: 3
+	Query: "catalognumber:32540" ; Times: 1
+	Query: "31709" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "cmn E924" ; Times: 1
+	Query: "Panthera leo" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "locality:brandon stateprovince:&#34;Manitoba&#34; recordedby:charleson" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "53583" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "10313" ; Times: 1
+	Query: "33026" ; Times: 1
+	Query: "46954" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 44 (out of 1263 download events in this period)
+Total number of records downloaded: 1784
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 32
+	Country: United Kingdom ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 2
+	Date: 2019-04-18 ; Times: 6
+	Date: 2019-04-02 ; Times: 19
+	Date: 2019-04-13 ; Times: 1
+	Date: 2019-04-10 ; Times: 2
+	Date: 2019-04-17 ; Times: 3
+	Date: 2019-04-16 ; Times: 1
+	Date: 2019-04-04 ; Times: 1
+	Date: 2019-04-30 ; Times: 3
+	Date: 2019-04-20 ; Times: 1
+	Date: 2019-04-06 ; Times: 1
+	Date: 2019-04-24 ; Times: 2
+	Date: 2019-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Puma" ; Times: 1
+	Query: "Myotis evotis" ; Times: 1
+	Query: "canis lupus (mexico)" ; Times: 2
+	Query: "NYCTICEIUS humeralis" ; Times: 1
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis volans" ; Times: 1
+	Query: "Myotis grisescens" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "Myotis auriculus" ; Times: 1
+	Query: "Didelphis virginiana year &gt;= 1970" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 1
+	Query: "Phenacomys intermedius" ; Times: 1
+	Query: "baiomys taylori" ; Times: 1
+	Query: "Myotis yumanensis" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 2
+	Query: "nelsonia neotomodon" ; Times: 1
+	Query: "Macroscelididae" ; Times: 1
+	Query: "loxodonta" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "Ursus americanus" ; Times: 1
+	Query: "Cabassous tatouay" ; Times: 1
+	Query: "Pipistrellus subflavus" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "Macroscelidea" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Antilocapra americana" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "Urocyon cinereoargenteus" ; Times: 1
+	Query: "EUMOPS PEROTIS" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+
+
+End of report.
