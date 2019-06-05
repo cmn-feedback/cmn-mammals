@@ -1,0 +1,113 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 70
+Number of records retrieved in searches: 343
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 37
+	Country: United States ; Times: 8
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 6
+	Country: Guatemala ; Times: 1
+	Country: Belgium ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 8
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-21 ; Times: 3
+	Date: 2019-05-20 ; Times: 5
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-22 ; Times: 3
+	Date: 2019-05-14 ; Times: 1
+	Date: 2019-05-31 ; Times: 5
+	Date: 2019-05-29 ; Times: 3
+	Date: 2019-05-28 ; Times: 8
+	Date: 2019-05-07 ; Times: 1
+	Date: 2019-05-08 ; Times: 4
+	Date: 2019-05-10 ; Times: 1
+	Date: 2019-05-06 ; Times: 5
+	Date: 2019-05-05 ; Times: 2
+	Date: 2019-05-30 ; Times: 8
+	Date: 2019-05-15 ; Times: 1
+	Date: 2019-05-01 ; Times: 7
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "54721" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "47124" ; Times: 26
+	Query: "Ratufa indica" ; Times: 5
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Saimiri sciureus mappable:1" ; Times: 1
+	Query: "Mustela nigripes" ; Times: 1
+	Query: "39672" ; Times: 1
+	Query: "catalognumber:53893" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 2
+	Query: "46899" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "33485" ; Times: 1
+	Query: "33255" ; Times: 1
+	Query: "mustela nigripes" ; Times: 5
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "34130" ; Times: 1
+	Query: "Panthera onca" ; Times: 2
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "34176" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 1
+	Query: "Syncerus caffer mappable:1" ; Times: 1
+	Query: "Lasiurus blossevillii mappable:1" ; Times: 1
+	Query: "17485" ; Times: 1
+	Query: "43627" ; Times: 1
+	Query: "39150" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Loxodonta africana mappable:1" ; Times: 2
+	Query: "Nasua nasua mappable:1" ; Times: 1
+	Query: "Helarctos malayanus" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 10 (out of 940 download events in this period)
+Total number of records downloaded: 576
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-24 ; Times: 1
+	Date: 2019-05-26 ; Times: 1
+	Date: 2019-05-23 ; Times: 1
+	Date: 2019-05-06 ; Times: 3
+	Date: 2019-05-09 ; Times: 1
+	Date: 2019-05-08 ; Times: 1
+	Date: 2019-05-11 ; Times: 1
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera onca" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "sorex palustris" ; Times: 1
+	Query: "ursus americanus" ; Times: 1
+	Query: "Myocastor coypus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+
+
+End of report.
