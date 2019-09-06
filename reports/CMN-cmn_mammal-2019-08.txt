@@ -1,0 +1,191 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 168
+Number of records retrieved in searches: 5542
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: United States ; Times: 118
+	Country: Mexico ; Times: 13
+	Country: Unknown ; Times: 1
+	Country: United Kingdom ; Times: 26
+	Country: Germany ; Times: 1
+	Country: Argentina ; Times: 3
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 9
+	Date: 2019-08-06 ; Times: 1
+	Date: 2019-08-08 ; Times: 2
+	Date: 2019-08-07 ; Times: 15
+	Date: 2019-08-01 ; Times: 1
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-05 ; Times: 26
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 2
+	Date: 2019-08-26 ; Times: 5
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-24 ; Times: 2
+	Date: 2019-08-22 ; Times: 7
+	Date: 2019-08-23 ; Times: 3
+	Date: 2019-08-20 ; Times: 17
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-15 ; Times: 22
+	Date: 2019-08-14 ; Times: 5
+	Date: 2019-08-13 ; Times: 8
+	Date: 2019-08-12 ; Times: 5
+	Date: 2019-08-31 ; Times: 4
+	Date: 2019-08-30 ; Times: 21
+	Date: 2019-08-19 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:46100" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "Balaenoptera acutorostrata" ; Times: 4
+	Query: "28574" ; Times: 1
+	Query: "panthera uncia" ; Times: 1
+	Query: "30879" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "40513" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 5
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 7
+	Query: "Petaurista leucogenys" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "panthera leo" ; Times: 2
+	Query: "Bos taurus L." ; Times: 1
+	Query: "Myotis sodalis" ; Times: 4
+	Query: "stillwater rodentia" ; Times: 1
+	Query: "Ovibos" ; Times: 2
+	Query: "Balaenoptera borealis" ; Times: 3
+	Query: "Lynx canadensis" ; Times: 16
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 4
+	Query: "Ovibos moschatus" ; Times: 4
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Crocidura vntype:specimen year &gt;= 1800 year &lt;= 1900" ; Times: 1
+	Query: "acutorostrata" ; Times: 2
+	Query: "Kogia sima" ; Times: 1
+	Query: "odontoceti" ; Times: 1
+	Query: "29919" ; Times: 1
+	Query: "ovibos moschatus" ; Times: 3
+	Query: "Felis silvestris catus" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "Dama dama" ; Times: 1
+	Query: "Panthera onca" ; Times: 10
+	Query: "Bos taurus" ; Times: 1
+	Query: "Capromys pilorides" ; Times: 1
+	Query: "21879" ; Times: 1
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "Myotis septentrionalis" ; Times: 11
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "39641" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "catalognumber:48611" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Myotis keenii" ; Times: 1
+	Query: "mountain goat" ; Times: 2
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "28575" ; Times: 3
+	Query: "56339" ; Times: 1
+	Query: "Zapus hudsonius" ; Times: 15
+	Query: "mummy" ; Times: 2
+	Query: "Proteus" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "macdougall" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Panthera leo" ; Times: 3
+	Query: "Saimiri sciureus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 51 (out of 1034 download events in this period)
+Total number of records downloaded: 6488
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 34
+	Country: Brazil ; Times: 2
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 2
+	Date: 2019-08-19 ; Times: 2
+	Date: 2019-08-15 ; Times: 5
+	Date: 2019-08-23 ; Times: 1
+	Date: 2019-08-02 ; Times: 1
+	Date: 2019-08-14 ; Times: 2
+	Date: 2019-08-13 ; Times: 2
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-29 ; Times: 6
+	Date: 2019-08-26 ; Times: 3
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 1
+	Date: 2019-08-30 ; Times: 2
+	Date: 2019-08-20 ; Times: 7
+	Date: 2019-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "lasiurus cinereus" ; Times: 2
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "Ovibos" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "Eschrichtius robustus" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "pipistrellus subflavus" ; Times: 1
+	Query: "Spermophilus townsendii" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "myotis ciliolabrum" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "panthera onca" ; Times: 1
+
+
+End of report.
