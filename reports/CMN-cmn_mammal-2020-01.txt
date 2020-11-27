@@ -1,0 +1,150 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 2233
+Number of records retrieved in searches: 2908
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 2
+	Country: Kazakhstan ; Times: 2
+	Country: France ; Times: 7
+	Country: United Kingdom ; Times: 8
+	Country: United States ; Times: 2207
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-09 ; Times: 1
+	Date: 2020-01-29 ; Times: 2
+	Date: 2020-01-02 ; Times: 2145
+	Date: 2020-01-01 ; Times: 2
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-06 ; Times: 14
+	Date: 2020-01-21 ; Times: 6
+	Date: 2020-01-20 ; Times: 3
+	Date: 2020-01-23 ; Times: 3
+	Date: 2020-01-22 ; Times: 4
+	Date: 2020-01-24 ; Times: 5
+	Date: 2020-01-27 ; Times: 12
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-28 ; Times: 3
+	Date: 2020-01-19 ; Times: 2
+	Date: 2020-01-14 ; Times: 3
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 3
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-13 ; Times: 3
+	Date: 2020-01-30 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "54986" ; Times: 2
+	Query: "O.58135" ; Times: 1
+	Query: "41501" ; Times: 1
+	Query: "canis lupus bailey" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 5
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 1
+	Query: "Gazella soemmerringii mappable:1" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "sorex hoyi" ; Times: 2
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen county:&#34;clinton&#34; stateprovince:&#34;New York&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Canis familiaris mappable:1" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "54378" ; Times: 1
+	Query: "distance(location,geopoint(2813266.0539046,-2055913.08604036))&lt;454470.177343282" ; Times: 2151
+	Query: "recordedby:Ervin" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "13990" ; Times: 1
+	Query: "No. O.58135" ; Times: 1
+	Query: "catalognumber:12682" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 2
+	Query: "18975" ; Times: 2
+	Query: "Rangifer tarandus caribou mappable:1" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "catalognumber:25239" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "&#34;Clethrionomys gapperi&#34; vntype:specimen stateprovince:&#34;Maine&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Saiga tatarica" ; Times: 2
+	Query: "35114" ; Times: 2
+	Query: "12356" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "catalognumber:35575" ; Times: 1
+	Query: "british columbia 1883" ; Times: 1
+	Query: "Panthera onca" ; Times: 9
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 1
+	Query: "Lepus europaeus mappable:1" ; Times: 3
+	Query: "&#34;lynx lynx&#34;" ; Times: 1
+	Query: "34953" ; Times: 1
+	Query: "39597" ; Times: 2
+	Query: "orcinus orca" ; Times: 1
+	Query: "catalognumber:12453" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "stateprovince:&#34;quebec&#34; basisofrecord:PreservedSpecimen hastypestatus:1" ; Times: 2
+	Query: "Metlakatla" ; Times: 1
+	Query: "34814" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 1584 download events in this period)
+Total number of records downloaded: 1709
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 16
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-01 ; Times: 1
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-11 ; Times: 5
+	Date: 2020-01-12 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "enhydra lutris" ; Times: 1
+	Query: "Myotis ciliolabrum" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "Nycticeius humeralis" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "microtus chrotorrhinus" ; Times: 1
+	Query: "Microtus richardsoni country:&#34;Canada&#34;" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "Myotis volans" ; Times: 1
+	Query: "Perimyotis subflavus" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "Myotis thysanodes" ; Times: 1
+	Query: "antrozous pallidus" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 2
+	Query: "Choloepus didactylus" ; Times: 1
+	Query: "Myotis californicus" ; Times: 1
+	Query: "phoca vitulina" ; Times: 1
+
+
+End of report.
