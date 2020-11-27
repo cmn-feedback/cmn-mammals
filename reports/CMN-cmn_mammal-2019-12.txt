@@ -1,0 +1,122 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 59
+Number of records retrieved in searches: 950
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Australia ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Tanzania ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 17
+	Country: United States ; Times: 26
+	Country: Germany ; Times: 1
+	Country: Ecuador ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-25 ; Times: 6
+	Date: 2019-12-27 ; Times: 6
+	Date: 2019-12-26 ; Times: 1
+	Date: 2019-12-20 ; Times: 3
+	Date: 2019-12-23 ; Times: 1
+	Date: 2019-12-22 ; Times: 11
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-30 ; Times: 1
+	Date: 2019-12-07 ; Times: 3
+	Date: 2019-12-09 ; Times: 3
+	Date: 2019-12-08 ; Times: 1
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-06 ; Times: 3
+	Date: 2019-12-12 ; Times: 4
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-03 ; Times: 2
+	Date: 2019-12-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "53319" ; Times: 1
+	Query: "58113" ; Times: 1
+	Query: "panthera uncia" ; Times: 3
+	Query: "55084" ; Times: 1
+	Query: "32093" ; Times: 1
+	Query: "lagurus" ; Times: 1
+	Query: "antidorcas" ; Times: 1
+	Query: "SERVAL" ; Times: 1
+	Query: "Balaenoptera borealis mappable:1" ; Times: 1
+	Query: "49481" ; Times: 2
+	Query: "54011" ; Times: 1
+	Query: "52713" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 5
+	Query: "20195" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "28549" ; Times: 1
+	Query: "catalognumber:36799" ; Times: 1
+	Query: "50129" ; Times: 2
+	Query: "Sciurus carolinensis CT" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 4
+	Query: "56609" ; Times: 1
+	Query: "Microtus chrotorrhinus" ; Times: 1
+	Query: "58319" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 2
+	Query: "Kogia sima mappable:1" ; Times: 2
+	Query: "Balaenoptera musculus mappable:1" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 2
+	Query: "sus scrofa Hawaii" ; Times: 1
+	Query: "Ratufa indica" ; Times: 1
+	Query: "Poaceae" ; Times: 1
+	Query: "24368" ; Times: 1
+	Query: "23783" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 2
+	Query: "Stenella longirostris mappable:1" ; Times: 2
+	Query: "13110" ; Times: 1
+	Query: "37484" ; Times: 2
+	Query: "78651" ; Times: 2
+	Query: "Panthera leo" ; Times: 1
+	Query: "Redunca+redunca" ; Times: 1
+	Query: "labrador duck" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 18 (out of 596 download events in this period)
+Total number of records downloaded: 1098
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Paraguay ; Times: 1
+	Country: Mexico ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 3
+	Date: 2019-12-04 ; Times: 5
+	Date: 2019-12-03 ; Times: 1
+	Date: 2019-12-02 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "puma concolor" ; Times: 1
+	Query: "Sciurus carolinensis" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "myotis melanorhinus" ; Times: 1
+	Query: "marmota monax" ; Times: 1
+	Query: "sus scrofa Hawaii" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "Panthera leo" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "Timm" ; Times: 1
+
+
+End of report.
