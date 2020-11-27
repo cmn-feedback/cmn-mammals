@@ -1,0 +1,191 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for March 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 131
+Number of records retrieved in searches: 1156
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 66
+	Country: Australia ; Times: 3
+	Country: Canada ; Times: 9
+	Country: Mexico ; Times: 34
+	Country: United Kingdom ; Times: 10
+	Country: Germany ; Times: 4
+	Country: Colombia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-06 ; Times: 2
+	Date: 2020-03-18 ; Times: 29
+	Date: 2020-03-02 ; Times: 3
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-20 ; Times: 14
+	Date: 2020-03-17 ; Times: 1
+	Date: 2020-03-31 ; Times: 11
+	Date: 2020-03-25 ; Times: 14
+	Date: 2020-03-24 ; Times: 3
+	Date: 2020-03-23 ; Times: 16
+	Date: 2020-03-22 ; Times: 2
+	Date: 2020-03-21 ; Times: 3
+	Date: 2020-03-19 ; Times: 3
+	Date: 2020-03-05 ; Times: 2
+	Date: 2020-03-09 ; Times: 3
+	Date: 2020-03-04 ; Times: 9
+	Date: 2020-03-15 ; Times: 1
+	Date: 2020-03-13 ; Times: 2
+	Date: 2020-03-03 ; Times: 5
+	Date: 2020-03-28 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "47045" ; Times: 1
+	Query: "catalognumber:13619" ; Times: 2
+	Query: "47738" ; Times: 1
+	Query: "40413" ; Times: 3
+	Query: "Myotis auriculus" ; Times: 2
+	Query: "catalognumber:7319" ; Times: 1
+	Query: "35626" ; Times: 1
+	Query: "(11044)" ; Times: 2
+	Query: "14984" ; Times: 1
+	Query: "Felis nigripes" ; Times: 1
+	Query: "(56781)" ; Times: 1
+	Query: "(18641)" ; Times: 1
+	Query: "30505" ; Times: 1
+	Query: "75546" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "45055" ; Times: 1
+	Query: "27757" ; Times: 1
+	Query: "24548" ; Times: 1
+	Query: "50678" ; Times: 1
+	Query: "29600" ; Times: 1
+	Query: "R.57365" ; Times: 1
+	Query: "41248" ; Times: 1
+	Query: "16664" ; Times: 1
+	Query: "Natalus tumidirostris" ; Times: 2
+	Query: "(46173)" ; Times: 1
+	Query: "22481" ; Times: 1
+	Query: "13619" ; Times: 2
+	Query: "Myotis leibii" ; Times: 1
+	Query: "catalognumber:48455" ; Times: 1
+	Query: "50807" ; Times: 1
+	Query: "56769" ; Times: 1
+	Query: "55258" ; Times: 1
+	Query: "52484" ; Times: 1
+	Query: "R 27452" ; Times: 1
+	Query: "Cardioderma cor" ; Times: 1
+	Query: "58767" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "Myotis keenii" ; Times: 2
+	Query: "Mormoops blainvillii" ; Times: 2
+	Query: "21297" ; Times: 1
+	Query: "Felis chaus" ; Times: 1
+	Query: "22251" ; Times: 1
+	Query: "(16380)" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "23124" ; Times: 1
+	Query: "30384" ; Times: 1
+	Query: "(49083)" ; Times: 1
+	Query: "ontario stateprovince:&#34;ontario&#34; country:&#34;canada&#34; (mammalia) institutioncode:CMN" ; Times: 1
+	Query: "21449" ; Times: 1
+	Query: "Calgary Zoo" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "Micronycteris hirsuta" ; Times: 2
+	Query: "catalognumber:24548" ; Times: 1
+	Query: "(35175)" ; Times: 1
+	Query: "catalognumber:5085" ; Times: 1
+	Query: "Myotis macrodactylus" ; Times: 2
+	Query: "Glaucomys oregonensis" ; Times: 2
+	Query: "(15209)" ; Times: 1
+	Query: "catalognumber:57365" ; Times: 1
+	Query: "Rhinolophus ferrumequinum" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "catalognumber:46721" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "57087" ; Times: 1
+	Query: "Tadarida aegyptiaca" ; Times: 1
+	Query: "Emballonura monticola" ; Times: 1
+	Query: "(49094)" ; Times: 2
+	Query: "R.39075" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 2
+	Query: "(49093)" ; Times: 2
+	Query: "52022" ; Times: 1
+	Query: "Eumops perotis" ; Times: 1
+	Query: "38874" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 2
+	Query: "Vulpes vulpes stateprovince:&#34;British Columbia&#34; country:&#34;Canada&#34;" ; Times: 1
+	Query: "Taphozous hildegardeae" ; Times: 1
+	Query: "52618" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Choeronycteris mexicana" ; Times: 1
+	Query: "38031" ; Times: 1
+	Query: "Pteronotus macleayii" ; Times: 1
+	Query: "13715" ; Times: 2
+	Query: "Megaderma spasma" ; Times: 2
+	Query: "(53280)" ; Times: 1
+	Query: "Rhinolophus cornutus" ; Times: 1
+	Query: "Delphinus capensis" ; Times: 1
+	Query: "Lagenorhynchus obliquidens" ; Times: 1
+	Query: "(49096)" ; Times: 4
+	Query: "Balaenoptera musculus" ; Times: 2
+	Query: "24177" ; Times: 1
+	Query: "Ariteus flavescens" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 2
+	Query: "57155" ; Times: 1
+	Query: "gbifdatasetid:f86a681d-7db8-483b-819a-248def18b70a" ; Times: 7
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 14 (out of 853 download events in this period)
+Total number of records downloaded: 10480
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 3
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Indonesia ; Times: 1
+	Country: United States ; Times: 4
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-03-11 ; Times: 1
+	Date: 2020-03-06 ; Times: 1
+	Date: 2020-03-18 ; Times: 1
+	Date: 2020-03-25 ; Times: 2
+	Date: 2020-03-09 ; Times: 1
+	Date: 2020-03-08 ; Times: 1
+	Date: 2020-03-21 ; Times: 2
+	Date: 2020-03-02 ; Times: 1
+	Date: 2020-03-12 ; Times: 2
+	Date: 2020-03-29 ; Times: 1
+	Date: 2020-03-22 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;ontario&#34; institutioncode:CMN" ; Times: 1
+	Query: "panthera" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "desmodus rotundus" ; Times: 1
+	Query: "LEOPARDUS WIEDII" ; Times: 1
+	Query: "ontario stateprovince:&#34;ontario&#34; country:&#34;canada&#34; (mammalia) institutioncode:CMN" ; Times: 1
+	Query: "Spermophilus parryii" ; Times: 1
+	Query: "sorex hoyi" ; Times: 1
+	Query: "Martes foina" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 1
+
+
+End of report.
