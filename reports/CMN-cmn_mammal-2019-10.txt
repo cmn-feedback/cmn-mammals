@@ -1,0 +1,276 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 250
+Number of records retrieved in searches: 4084
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 9
+	Country: Brazil ; Times: 17
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 210
+	Country: Chile ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: Hungary ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Benin ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 6
+	Date: 2019-10-08 ; Times: 10
+	Date: 2019-10-21 ; Times: 6
+	Date: 2019-10-20 ; Times: 2
+	Date: 2019-10-27 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 8
+	Date: 2019-10-03 ; Times: 2
+	Date: 2019-10-02 ; Times: 6
+	Date: 2019-10-05 ; Times: 27
+	Date: 2019-10-04 ; Times: 86
+	Date: 2019-10-07 ; Times: 20
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-22 ; Times: 32
+	Date: 2019-10-29 ; Times: 2
+	Date: 2019-10-18 ; Times: 7
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-10 ; Times: 2
+	Date: 2019-10-11 ; Times: 3
+	Date: 2019-10-30 ; Times: 6
+	Date: 2019-10-31 ; Times: 1
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-17 ; Times: 4
+	Date: 2019-10-15 ; Times: 7
+	Date: 2019-10-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Dipodomys ordii 1978" ; Times: 1
+	Query: "preparations:skeleton (Mustela lutreola)" ; Times: 1
+	Query: "catalognumber:12077" ; Times: 1
+	Query: "Dipodomys ordii 1974" ; Times: 1
+	Query: "54212" ; Times: 1
+	Query: "Martes zibellina preparations:skeleton" ; Times: 1
+	Query: "10109" ; Times: 1
+	Query: "locality:irvine stateprovince:&#34;alberta&#34;" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "Bos gaurus" ; Times: 1
+	Query: "Dipodomys ordii 1983" ; Times: 1
+	Query: "Zapus princeps 1996" ; Times: 1
+	Query: "39463" ; Times: 1
+	Query: "Geomys bursarius 2018" ; Times: 1
+	Query: "Microtus longicaudus 1979" ; Times: 1
+	Query: "Microtus longicaudus 1977" ; Times: 1
+	Query: "Rattus norvegicus 1973" ; Times: 1
+	Query: "Rattus norvegicus 1975" ; Times: 1
+	Query: "Rattus norvegicus 1974" ; Times: 1
+	Query: "Rattus norvegicus 1977" ; Times: 1
+	Query: "Rattus norvegicus 1976" ; Times: 1
+	Query: "Reithrodontomys megalotis 2018" ; Times: 2
+	Query: "Loxodonta africana mappable:1" ; Times: 1
+	Query: "23763" ; Times: 1
+	Query: "Onychomys leucogaster 1983" ; Times: 1
+	Query: "Geomys bursarius 1977" ; Times: 1
+	Query: "Geomys bursarius 1974" ; Times: 1
+	Query: "preparations:skeleton (Lynx canadensis)" ; Times: 1
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "52702" ; Times: 1
+	Query: "Thomomys talpoides 1972" ; Times: 2
+	Query: "Thomomys talpoides 1974" ; Times: 1
+	Query: "catalognumber:2482" ; Times: 2
+	Query: "50567" ; Times: 1
+	Query: "Lynx canadensis 2007" ; Times: 1
+	Query: "Rattus norvegicus 2018" ; Times: 1
+	Query: "32783" ; Times: 1
+	Query: "15983" ; Times: 1
+	Query: "Myotis septentrionalis 1981" ; Times: 1
+	Query: "Myotis septentrionalis 1983" ; Times: 1
+	Query: "Myotis septentrionalis 1988" ; Times: 1
+	Query: "Myotis septentrionalis 1989" ; Times: 1
+	Query: "Mus musculus 1983" ; Times: 2
+	Query: "Mus musculus 1982" ; Times: 2
+	Query: "Mus musculus 1984" ; Times: 4
+	Query: "50678" ; Times: 1
+	Query: "Chaetophractus vellerosus" ; Times: 2
+	Query: "mummy" ; Times: 2
+	Query: "Lynx canadensis 2017" ; Times: 2
+	Query: "nelsonia neotomodon" ; Times: 10
+	Query: "Marmota vancouverensis" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Kansas&#34; year &lt;= 1970" ; Times: 2
+	Query: "40047" ; Times: 1
+	Query: "Microtus ochrogaster 2018" ; Times: 1
+	Query: "Zapus princeps 1974" ; Times: 1
+	Query: "Zapus princeps 1977" ; Times: 1
+	Query: "Zapus princeps 1976" ; Times: 1
+	Query: "Zapus princeps 2017" ; Times: 3
+	Query: "Zapus princeps 1979" ; Times: 1
+	Query: "10495" ; Times: 2
+	Query: "R-21808" ; Times: 2
+	Query: "Mustela erminea anguinae mappable:1" ; Times: 1
+	Query: "Stenella coeruleoalba" ; Times: 1
+	Query: "catalognumber:16172" ; Times: 1
+	Query: "vampyrum spectrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Onychomys leucogaster 1974" ; Times: 1
+	Query: "37120" ; Times: 1
+	Query: "preparations:skeleton (Pusa hispida)" ; Times: 1
+	Query: "Mus musculus 2018" ; Times: 4
+	Query: "52702 mammal" ; Times: 1
+	Query: "Thomomys talpoides 1984" ; Times: 1
+	Query: "Thomomys talpoides 1986" ; Times: 1
+	Query: "Canis lupus lycaon mappable:1" ; Times: 2
+	Query: "Pedetes capensis vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Onychomys leucogaster 2017" ; Times: 2
+	Query: "preparations:skeleton (Martes zibellina)" ; Times: 1
+	Query: "Zapus princeps 2018" ; Times: 1
+	Query: "Onychomys leucogaster 2018" ; Times: 1
+	Query: "11817" ; Times: 1
+	Query: "Reithrodontomys megalotis 1986" ; Times: 1
+	Query: "Microtus montanus 1979" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "Reithrodontomys megalotis 1982" ; Times: 1
+	Query: "Neotoma cinerea 1984" ; Times: 1
+	Query: "Neotoma cinerea 2007" ; Times: 1
+	Query: "Neotoma cinerea 1980" ; Times: 1
+	Query: "Neotoma cinerea 1982" ; Times: 1
+	Query: "preparations:skeleton (Panthera onca)" ; Times: 1
+	Query: "44016" ; Times: 1
+	Query: "Neotoma cinerea 2000" ; Times: 1
+	Query: "Dicrostonyx nunatakensis mappable:1" ; Times: 4
+	Query: "Vampyrum spectrum" ; Times: 1
+	Query: "32998" ; Times: 1
+	Query: "52627" ; Times: 1
+	Query: "Microtus longicaudus 1980" ; Times: 1
+	Query: "Microtus longicaudus 1987" ; Times: 1
+	Query: "Microtus longicaudus 1986" ; Times: 1
+	Query: "Mus musculus 1973" ; Times: 2
+	Query: "Mus musculus 1979" ; Times: 2
+	Query: "Suricata suricatta preparations:skeleton" ; Times: 1
+	Query: "Mus musculus 1976" ; Times: 2
+	Query: "Mus musculus 1977" ; Times: 2
+	Query: "Mus musculus 1974" ; Times: 2
+	Query: "Mus musculus 1975" ; Times: 4
+	Query: "leopardus tigrinus" ; Times: 15
+	Query: "Leopardus pardalis 2018" ; Times: 1
+	Query: "Neotoma fuscipes" ; Times: 1
+	Query: "Neotoma macrotis" ; Times: 5
+	Query: "Neotoma cinerea 1972" ; Times: 1
+	Query: "Neotoma cinerea 1975" ; Times: 1
+	Query: "Microtus longicaudus 1996" ; Times: 1
+	Query: "Leopardus pardalis 2017" ; Times: 1
+	Query: "Neotoma cinerea 1976" ; Times: 1
+	Query: "Lynx canadensis 1979" ; Times: 1
+	Query: "Lynx canadensis 1978" ; Times: 1
+	Query: "Lynx canadensis 1975" ; Times: 1
+	Query: "Lynx canadensis 1974" ; Times: 1
+	Query: "28676" ; Times: 1
+	Query: "Lynx canadensis 1976" ; Times: 1
+	Query: "Myotis sodalis 2017" ; Times: 1
+	Query: "Myotis septentrionalis 2018" ; Times: 1
+	Query: "Myotis septentrionalis 2017" ; Times: 1
+	Query: "Loxodonta" ; Times: 1
+	Query: "Myotis sodalis 2018" ; Times: 1
+	Query: "Neotoma cinerea 1999" ; Times: 1
+	Query: "52049" ; Times: 1
+	Query: "Lynx canadensis 1980" ; Times: 1
+	Query: "Microtus longicaudus 1995" ; Times: 1
+	Query: "Lynx canadensis 1982" ; Times: 1
+	Query: "Orcinus orca" ; Times: 1
+	Query: "catalognumber:31806" ; Times: 1
+	Query: "43878" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "Rattus norvegicus 1982" ; Times: 1
+	Query: "Rattus norvegicus 1983" ; Times: 1
+	Query: "Rattus norvegicus 1984" ; Times: 1
+	Query: "ovibos" ; Times: 1
+	Query: "Rattus norvegicus 1986" ; Times: 1
+	Query: "mustela nigripes" ; Times: 6
+	Query: "plantae" ; Times: 1
+	Query: "citellus Spermophilus" ; Times: 1
+	Query: "13267" ; Times: 3
+	Query: "Zapus princeps 1993" ; Times: 1
+	Query: "Thomomys talpoides 2018" ; Times: 2
+	Query: "Thomomys talpoides 2017" ; Times: 2
+	Query: "Microtus longicaudus 2014" ; Times: 1
+	Query: "Thomomys talpoides 2010" ; Times: 1
+	Query: "Myotis septentrionalis 1979" ; Times: 1
+	Query: "Microtus ochrogaster 2017" ; Times: 1
+	Query: "Microtus ochrogaster 2010" ; Times: 1
+	Query: "1349 canis lupus" ; Times: 1
+	Query: "Neotoma cinerea 2018" ; Times: 1
+	Query: "Neotoma cinerea 2017" ; Times: 3
+	Query: "Myotis septentrionalis 1974" ; Times: 1
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Lynx canadensis 1993" ; Times: 1
+	Query: "Lynx canadensis 1991" ; Times: 1
+	Query: "Lynx canadensis 2018" ; Times: 2
+	Query: "Microtus ochrogaster 1977" ; Times: 1
+	Query: "lutra preparations:skeleton" ; Times: 1
+	Query: "Balaenoptera musculus" ; Times: 4
+	Query: "Neotoma mexicana 2018" ; Times: 1
+	Query: "Thomomys talpoides 1979" ; Times: 1
+	Query: "Reithrodontomys megalotis 1975" ; Times: 1
+	Query: "Geomys bursarius 2017" ; Times: 2
+	Query: "Lynx canadensis 1977" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "H 6378-16" ; Times: 1
+	Query: "Zapus princeps 1986" ; Times: 1
+	Query: "preparations:skeleton (Phoca vitulina)" ; Times: 1
+	Query: "Zapus princeps 1980" ; Times: 1
+	Query: "Microtus montanus 2017" ; Times: 1
+	Query: "Reithrodontomys megalotis 1983" ; Times: 1
+	Query: "Microtus montanus 2018" ; Times: 1
+	Query: "Geomys bursarius 1984" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 38 (out of 1308 download events in this period)
+Total number of records downloaded: 1478
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 17
+	Country: Mexico ; Times: 21
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-23 ; Times: 15
+	Date: 2019-10-08 ; Times: 4
+	Date: 2019-10-18 ; Times: 4
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-30 ; Times: 2
+	Date: 2019-10-21 ; Times: 5
+	Date: 2019-10-14 ; Times: 1
+	Date: 2019-10-07 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Sus scrofa preparations:skeleton" ; Times: 1
+	Query: "Ursus arctos horribilis" ; Times: 1
+	Query: "marmota monax vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Odocoileus virginianus preparations:skeleton" ; Times: 1
+	Query: "macrotus" ; Times: 1
+	Query: "Erethizon preparations:skeleton" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Puma concolor" ; Times: 3
+	Query: "Micronycteris hirsuta" ; Times: 1
+	Query: "Pedetes capensis vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "erethizon dorsatum vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Peromyscus mexicanus preparations:skeleton" ; Times: 1
+	Query: "Peromyscus polionotus vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Macrotus californicus" ; Times: 1
+	Query: "puma concolor" ; Times: 10
+	Query: "Procyon lotor stateprovince:&#34;Kansas&#34; year &lt;= 1970" ; Times: 2
+	Query: "Dasypus novemcinctus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Macrotus waterhousii" ; Times: 1
+	Query: "cavia vntype:specimen preparations:skeleton" ; Times: 1
+	Query: "Bassariscus astutus" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Coendou prehensilis vntype:specimen" ; Times: 1
+	Query: "vampyrum spectrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Synaptomys cooperi" ; Times: 1
+	Query: "Puma Concolor" ; Times: 1
+
+
+End of report.
