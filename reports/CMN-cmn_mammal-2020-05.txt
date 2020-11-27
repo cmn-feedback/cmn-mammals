@@ -1,0 +1,165 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 287
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Ireland ; Times: 8
+	Country: Mexico ; Times: 3
+	Country: Egypt ; Times: 2
+	Country: United States ; Times: 57
+	Country: Austria ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Hong Kong ; Times: 1
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-27 ; Times: 7
+	Date: 2020-05-26 ; Times: 2
+	Date: 2020-05-21 ; Times: 2
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-28 ; Times: 4
+	Date: 2020-05-02 ; Times: 1
+	Date: 2020-05-18 ; Times: 3
+	Date: 2020-05-07 ; Times: 13
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 9
+	Date: 2020-05-10 ; Times: 4
+	Date: 2020-05-06 ; Times: 5
+	Date: 2020-05-12 ; Times: 1
+	Date: 2020-05-04 ; Times: 6
+	Date: 2020-05-15 ; Times: 5
+	Date: 2020-05-01 ; Times: 3
+	Date: 2020-05-17 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "16883" ; Times: 1
+	Query: "45761" ; Times: 1
+	Query: "16881" ; Times: 1
+	Query: "Skin-50689" ; Times: 1
+	Query: "36580" ; Times: 1
+	Query: "48626" ; Times: 1
+	Query: "34415" ; Times: 1
+	Query: "34410" ; Times: 1
+	Query: "2074 peromyscus" ; Times: 1
+	Query: "catalognumber:31824" ; Times: 1
+	Query: "38633" ; Times: 1
+	Query: "46888" ; Times: 1
+	Query: "33797" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "51803" ; Times: 1
+	Query: "2382 peromyscus" ; Times: 1
+	Query: "47128" ; Times: 1
+	Query: "50345" ; Times: 1
+	Query: "37765" ; Times: 1
+	Query: "57822" ; Times: 1
+	Query: "51361" ; Times: 1
+	Query: "catalognumber:26392" ; Times: 1
+	Query: "9152 peromyscus" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "55084" ; Times: 1
+	Query: "16804" ; Times: 1
+	Query: "Redunca redunca" ; Times: 2
+	Query: "38185" ; Times: 1
+	Query: "46562" ; Times: 1
+	Query: "33761" ; Times: 1
+	Query: "catalognumber:19612" ; Times: 1
+	Query: "catalognumber:16611" ; Times: 2
+	Query: "36803" ; Times: 1
+	Query: "catalognumber:45779" ; Times: 1
+	Query: "baer" ; Times: 1
+	Query: "Chauvin" ; Times: 1
+	Query: "49138" ; Times: 1
+	Query: "38568" ; Times: 1
+	Query: "48344" ; Times: 1
+	Query: "58664" ; Times: 1
+	Query: "catalognumber:26392 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "28960" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 4
+	Query: "Vulpes vulpes rubricosa" ; Times: 1
+	Query: "9738 peromyscus" ; Times: 1
+	Query: "47956" ; Times: 1
+	Query: "43990" ; Times: 1
+	Query: "20009" ; Times: 1
+	Query: "39437" ; Times: 1
+	Query: "75267" ; Times: 2
+	Query: "38592" ; Times: 1
+	Query: "locality:gorge county:&#34;transylvania&#34; stateprovince:&#34;north carolina&#34;" ; Times: 1
+	Query: "37232" ; Times: 2
+	Query: "catalognumber:16369" ; Times: 1
+	Query: "Vespertilio superans" ; Times: 1
+	Query: "33042" ; Times: 1
+	Query: "51940" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "2071 peromyscus" ; Times: 3
+	Query: "catalognumber:28784" ; Times: 2
+	Query: "44752" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 29 (out of 1106 download events in this period)
+Total number of records downloaded: 4657
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: Nepal ; Times: 1
+	Country: United States ; Times: 17
+	Country: Colombia ; Times: 1
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-26 ; Times: 1
+	Date: 2020-05-30 ; Times: 7
+	Date: 2020-05-23 ; Times: 2
+	Date: 2020-05-28 ; Times: 2
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-07 ; Times: 2
+	Date: 2020-05-09 ; Times: 1
+	Date: 2020-05-08 ; Times: 6
+	Date: 2020-05-10 ; Times: 1
+	Date: 2020-05-06 ; Times: 1
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-03 ; Times: 2
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Perognathus flavus" ; Times: 1
+	Query: "Perognathus fasciatus" ; Times: 1
+	Query: "Puma concolor" ; Times: 2
+	Query: "Phoca vitulina" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "Zalophus californianus" ; Times: 1
+	Query: "melursus ursinus" ; Times: 1
+	Query: "Peromyscus maniculatus" ; Times: 1
+	Query: "Martes zibellina" ; Times: 1
+	Query: "&#34;Peromyscus keeni&#34;" ; Times: 1
+	Query: "Lontra canadensis" ; Times: 1
+	Query: "Martes americana" ; Times: 1
+	Query: "procyon lotor" ; Times: 1
+	Query: "Lasiurus cinereus" ; Times: 1
+	Query: "mustela frenata" ; Times: 1
+	Query: "lynx rufus" ; Times: 1
+	Query: "bone valley" ; Times: 1
+	Query: "Martes martes" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "odocoileus hemionus" ; Times: 1
+	Query: "Nasua nasua" ; Times: 1
+	Query: "Martes pennanti" ; Times: 1
+	Query: "bassariscus astutus" ; Times: 1
+	Query: "Martes caurina" ; Times: 1
+	Query: "Martes foina" ; Times: 2
+	Query: "Tetradactylus tetradactylus" ; Times: 1
+	Query: "nasua narica" ; Times: 1
+
+
+End of report.
