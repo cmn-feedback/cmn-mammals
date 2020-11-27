@@ -1,0 +1,168 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for February 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 74
+Number of records retrieved in searches: 352
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 63
+	Country: Mexico ; Times: 5
+	Country: Denmark ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-05 ; Times: 2
+	Date: 2020-02-24 ; Times: 3
+	Date: 2020-02-03 ; Times: 2
+	Date: 2020-02-27 ; Times: 8
+	Date: 2020-02-06 ; Times: 4
+	Date: 2020-02-21 ; Times: 1
+	Date: 2020-02-23 ; Times: 2
+	Date: 2020-02-08 ; Times: 2
+	Date: 2020-02-09 ; Times: 4
+	Date: 2020-02-28 ; Times: 5
+	Date: 2020-02-29 ; Times: 1
+	Date: 2020-02-11 ; Times: 3
+	Date: 2020-02-10 ; Times: 2
+	Date: 2020-02-13 ; Times: 3
+	Date: 2020-02-12 ; Times: 12
+	Date: 2020-02-14 ; Times: 4
+	Date: 2020-02-17 ; Times: 3
+	Date: 2020-02-16 ; Times: 1
+	Date: 2020-02-19 ; Times: 2
+	Date: 2020-02-18 ; Times: 1
+	Date: 2020-02-01 ; Times: 3
+	Date: 2020-02-20 ; Times: 4
+	Date: 2020-02-07 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Panthera uncia basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:43253" ; Times: 1
+	Query: "41501" ; Times: 2
+	Query: "15700" ; Times: 1
+	Query: "36877" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "39343" ; Times: 1
+	Query: "catalognumber:54329" ; Times: 1
+	Query: "19835" ; Times: 1
+	Query: "catalognumber:52400" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "&#34;orcinus orca&#34;" ; Times: 1
+	Query: "36879" ; Times: 2
+	Query: "27725" ; Times: 1
+	Query: "14267" ; Times: 1
+	Query: "22179" ; Times: 1
+	Query: "pagophilus" ; Times: 1
+	Query: "51716" ; Times: 1
+	Query: "bison atlas" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "51609" ; Times: 1
+	Query: "15683" ; Times: 1
+	Query: "24101" ; Times: 1
+	Query: "catalognumber:19343" ; Times: 1
+	Query: "39229" ; Times: 1
+	Query: "45612" ; Times: 1
+	Query: "Monodon monoceros" ; Times: 3
+	Query: "25928" ; Times: 1
+	Query: "ovibos moschatus" ; Times: 1
+	Query: "catalognumber:832" ; Times: 1
+	Query: "34885" ; Times: 1
+	Query: "catalognumber:43246" ; Times: 1
+	Query: "41653" ; Times: 1
+	Query: "41652" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "14846" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 2
+	Query: "54329" ; Times: 2
+	Query: "15-1013-9" ; Times: 2
+	Query: "labrador duck" ; Times: 2
+	Query: "cystophora" ; Times: 3
+	Query: "15969" ; Times: 1
+	Query: "26348" ; Times: 1
+	Query: "16240" ; Times: 1
+	Query: "catalognumber:12020" ; Times: 1
+	Query: "26637" ; Times: 1
+	Query: "Panthera uncia" ; Times: 1
+	Query: "catalognumber:43064" ; Times: 1
+	Query: "catalognumber:25450" ; Times: 1
+	Query: "14244" ; Times: 1
+	Query: "Mustela erminea haidarum" ; Times: 1
+	Query: "26386" ; Times: 1
+	Query: "catalognumber:43732" ; Times: 1
+	Query: "14245" ; Times: 1
+	Query: "28572" ; Times: 1
+	Query: "Crocidura suaveolens" ; Times: 2
+	Query: "20991" ; Times: 1
+	Query: "Dendrohyrax" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1023 download events in this period)
+Total number of records downloaded: 3748
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Unknown ; Times: 4
+	Country: United States ; Times: 16
+	Country: Guyana ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-02-03 ; Times: 1
+	Date: 2020-02-15 ; Times: 1
+	Date: 2020-02-12 ; Times: 1
+	Date: 2020-02-26 ; Times: 1
+	Date: 2020-02-25 ; Times: 4
+	Date: 2020-02-13 ; Times: 1
+	Date: 2020-02-01 ; Times: 2
+	Date: 2020-02-20 ; Times: 1
+	Date: 2020-02-07 ; Times: 1
+	Date: 2020-02-17 ; Times: 1
+	Date: 2020-02-05 ; Times: 1
+	Date: 2020-02-19 ; Times: 1
+	Date: 2020-02-06 ; Times: 1
+	Date: 2020-02-08 ; Times: 1
+	Date: 2020-02-09 ; Times: 3
+	Date: 2020-02-27 ; Times: 6
+	Date: 2020-02-29 ; Times: 4
+	Date: 2020-02-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peromyscus leucopus" ; Times: 1
+	Query: "neacomys" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 1
+	Query: "mormoops blainvillii" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 2
+	Query: "zapus princeps" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Enhydra lutris" ; Times: 1
+	Query: "sorex cinereus" ; Times: 1
+	Query: "sorex pribilofensis" ; Times: 1
+	Query: "lynx canadensis" ; Times: 1
+	Query: "sorex ugyunak" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "Didelphis virginiana" ; Times: 2
+	Query: "sciurus niger" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "&#34;Panthera tigris altaica&#34;" ; Times: 1
+	Query: "Myotis melanorhinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "vampyrum spectrum" ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "sigmodon hispidus" ; Times: 1
+	Query: "Myotis ciliolabrum basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "guyana" ; Times: 1
+	Query: "Hippopotamus" ; Times: 1
+
+
+End of report.
