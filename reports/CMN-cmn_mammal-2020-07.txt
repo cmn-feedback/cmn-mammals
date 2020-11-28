@@ -1,0 +1,163 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 79
+Number of records retrieved in searches: 466
+Number of different countries where searches have been originated: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 8
+	Country: Ireland ; Times: 1
+	Country: Colombia ; Times: 10
+	Country: Mexico ; Times: 11
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 7
+	Country: United States ; Times: 29
+	Country: Ecuador ; Times: 5
+	Country: Peru ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-08 ; Times: 1
+	Date: 2020-07-21 ; Times: 5
+	Date: 2020-07-20 ; Times: 4
+	Date: 2020-07-27 ; Times: 2
+	Date: 2020-07-24 ; Times: 3
+	Date: 2020-07-01 ; Times: 4
+	Date: 2020-07-03 ; Times: 1
+	Date: 2020-07-02 ; Times: 2
+	Date: 2020-07-07 ; Times: 7
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-29 ; Times: 4
+	Date: 2020-07-28 ; Times: 4
+	Date: 2020-07-13 ; Times: 1
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 2
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 9
+	Date: 2020-07-15 ; Times: 2
+	Date: 2020-07-22 ; Times: 6
+	Date: 2020-07-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "58955" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "40497" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "R. j. coles" ; Times: 1
+	Query: "42543" ; Times: 1
+	Query: "catalognumber:37676" ; Times: 1
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 2
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "16350" ; Times: 1
+	Query: "40514" ; Times: 2
+	Query: "20502" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "panthera leo" ; Times: 1
+	Query: "catalognumber:42842" ; Times: 1
+	Query: "catalognumber:42833" ; Times: 2
+	Query: "catalognumber:42836" ; Times: 1
+	Query: "Myrmecophaga" ; Times: 2
+	Query: "lontra canadensis pacifica" ; Times: 2
+	Query: "r. j. coles" ; Times: 1
+	Query: "Stenella attenuata mappable:1" ; Times: 1
+	Query: "52151" ; Times: 1
+	Query: "stenella attenuata" ; Times: 2
+	Query: "32839" ; Times: 1
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "Urocyon AND Santa Rosa Island" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "46505" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "56042" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "Canis lupus lycaon" ; Times: 2
+	Query: "45055" ; Times: 1
+	Query: "27204" ; Times: 1
+	Query: "boxer" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "27947" ; Times: 1
+	Query: "37676" ; Times: 1
+	Query: "21099" ; Times: 1
+	Query: "catalognumber:55271" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "13627" ; Times: 1
+	Query: "41449" ; Times: 1
+	Query: "Bos grunniens" ; Times: 1
+	Query: "44107" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "13459" ; Times: 1
+	Query: "39186" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "Callosciurus prevosti" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "35921" ; Times: 1
+	Query: "23686" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 25 (out of 940 download events in this period)
+Total number of records downloaded: 5219
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 10
+	Country: Peru ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 5
+	Country: Colombia ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-23 ; Times: 1
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-18 ; Times: 1
+	Date: 2020-07-25 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-12 ; Times: 1
+	Date: 2020-07-13 ; Times: 2
+	Date: 2020-07-28 ; Times: 1
+	Date: 2020-07-16 ; Times: 4
+	Date: 2020-07-21 ; Times: 4
+	Date: 2020-07-14 ; Times: 1
+	Date: 2020-07-06 ; Times: 2
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "lutra lutra" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "Muntiacus muntjak" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Sundasciurus" ; Times: 1
+	Query: "Lynx canadensis" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "callosciurus" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
