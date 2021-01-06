@@ -1,0 +1,183 @@
+Report for Institution Code CMN, Resource cmn_mammal
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 165
+Number of records retrieved in searches: 1620
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 86
+	Country: Netherlands ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 2
+	Country: France ; Times: 3
+	Country: United Kingdom ; Times: 28
+	Country: Mozambique ; Times: 4
+	Country: Spain ; Times: 21
+	Country: Colombia ; Times: 4
+	Country: Denmark ; Times: 1
+	Country: Iran ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Kenya ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 5
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-09 ; Times: 29
+	Date: 2020-12-08 ; Times: 4
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-05 ; Times: 2
+	Date: 2020-12-04 ; Times: 16
+	Date: 2020-12-03 ; Times: 2
+	Date: 2020-12-02 ; Times: 39
+	Date: 2020-12-01 ; Times: 2
+	Date: 2020-12-25 ; Times: 1
+	Date: 2020-12-24 ; Times: 7
+	Date: 2020-12-27 ; Times: 2
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-20 ; Times: 3
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-29 ; Times: 1
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-18 ; Times: 1
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 9
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 2
+	Date: 2020-12-14 ; Times: 20
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 6
+	Date: 2020-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Vulpes vulpes stateprovince:new york" ; Times: 2
+	Query: "41264" ; Times: 1
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "Mammal-25855" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 2
+	Query: "Felis nigripes" ; Times: 3
+	Query: "Ovis aries" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 4
+	Query: "ellobius" ; Times: 1
+	Query: "36800" ; Times: 1
+	Query: "gazella soemmerringii" ; Times: 1
+	Query: "scientificname:Phoca vitulina stateprovince:new york" ; Times: 2
+	Query: "Dama dama" ; Times: 1
+	Query: "scientificname:Myotis septentrionalis stateprovince:new york" ; Times: 2
+	Query: "14840" ; Times: 1
+	Query: "scientificname:Myotis lucifugus stateprovince:new york" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "26360" ; Times: 1
+	Query: "37189" ; Times: 1
+	Query: "soemmerringii" ; Times: 1
+	Query: "scientificname:Procyon lotor stateprovince:new york" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "scientificname:Eptesicus fuscus stateprovince:new york" ; Times: 2
+	Query: "panthera leo leo" ; Times: 3
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "Felis silvestris" ; Times: 1
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "25529" ; Times: 1
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "30561" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Ovis dalli" ; Times: 1
+	Query: "Axis axis" ; Times: 1
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "scientificname:Didelphis virginiana stateprovince:new york" ; Times: 2
+	Query: "Bubalus bubalis" ; Times: 1
+	Query: "mappable:1 scientificname:Redunca fulvorufula" ; Times: 1
+	Query: "42634" ; Times: 1
+	Query: "Felis catus" ; Times: 1
+	Query: "43687" ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+	Query: "mappable:1 scientificname:Loxodonta africana" ; Times: 1
+	Query: "41988" ; Times: 1
+	Query: "11296" ; Times: 1
+	Query: "poaceae" ; Times: 1
+	Query: "Capra aegagrus Iran" ; Times: 2
+	Query: "scientificname:Sorex palustris stateprovince:new york" ; Times: 3
+	Query: "Microtus richardsoni" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 5
+	Query: "41740" ; Times: 1
+	Query: "mappable:1 scientificname:Panthera leo" ; Times: 1
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Mephitis mephitis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Myotis leibii stateprovince:new york" ; Times: 2
+	Query: "41856" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "plantae" ; Times: 1
+	Query: "Equus caballus" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "49709" ; Times: 1
+	Query: "19907" ; Times: 1
+	Query: "Phacochoerus" ; Times: 3
+	Query: "35966" ; Times: 1
+	Query: "35101" ; Times: 1
+	Query: "39031" ; Times: 1
+	Query: "Ovis canadensis" ; Times: 1
+	Query: "scientificname:Puma concolor stateprovince:new york" ; Times: 2
+	Query: "Dicrostonyx torquatus" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "scientificname:Procyon lotor" ; Times: 20
+	Query: "recordedby:W Lucas" ; Times: 2
+	Query: "30727" ; Times: 1
+	Query: "Myotis daubentoni" ; Times: 1
+	Query: "connochaetes taurinus" ; Times: 1
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 2
+	Query: "mappable:1 scientificname:Ourebia ourebi" ; Times: 1
+	Query: "Bos javanicus" ; Times: 2
+	Query: "Felis chaus" ; Times: 3
+	Query: "scientificname:Sylvilagus transitionalis stateprovince:new york" ; Times: 2
+	Query: "soemmerringii vntype:specimen" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "34899" ; Times: 2
+	Query: "34898" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 705 download events in this period)
+Total number of records downloaded: 3544
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-24 ; Times: 1
+	Date: 2020-12-22 ; Times: 1
+	Date: 2020-12-07 ; Times: 1
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-02 ; Times: 4
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "Capra aegagrus Iran" ; Times: 1
+	Query: "Delphinapterus leucas" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+
+
+End of report.
